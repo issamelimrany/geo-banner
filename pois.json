@@ -1,0 +1,11168 @@
+[
+  {
+    "name": "Auchan Supermarché Antony",
+    "type": "gas",
+    "lat": 48.7404536,
+    "lon": 2.3149872
+  },
+  {
+    "name": "Médiathèque Anne Fontaine",
+    "type": NaN,
+    "lat": 48.7548072,
+    "lon": 2.2977551
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7558524,
+    "lon": 2.2839234
+  },
+  {
+    "name": "La Poste - bureau Antony Auguste Mounié",
+    "type": NaN,
+    "lat": 48.7540783,
+    "lon": 2.3027274
+  },
+  {
+    "name": "École maternelle publique Jean Moulin",
+    "type": NaN,
+    "lat": 48.7532336,
+    "lon": 2.3065551
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478573,
+    "lon": 2.2937163
+  },
+  {
+    "name": "Centre Culturel Château Sarran",
+    "type": NaN,
+    "lat": 48.7481236,
+    "lon": 2.2937261
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7513378,
+    "lon": 2.2961141
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7457124,
+    "lon": 2.2958314
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7482633,
+    "lon": 2.2948915
+  },
+  {
+    "name": "La Tour de Marrakech",
+    "type": NaN,
+    "lat": 48.7489545,
+    "lon": 2.3038867
+  },
+  {
+    "name": "Pharmacie des Écoles",
+    "type": NaN,
+    "lat": 48.7455821,
+    "lon": 2.2953586
+  },
+  {
+    "name": "Pharmacie La Fontaine",
+    "type": NaN,
+    "lat": 48.770159,
+    "lon": 2.316422
+  },
+  {
+    "name": "Auchan",
+    "type": "supermarket",
+    "lat": 48.7698641,
+    "lon": 2.3162325
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7709595,
+    "lon": 2.3124009
+  },
+  {
+    "name": "Pharmacie CHAU VINH",
+    "type": NaN,
+    "lat": 48.7703946,
+    "lon": 2.3114497
+  },
+  {
+    "name": "Hair's Pur",
+    "type": "hairdresser",
+    "lat": 48.7701532,
+    "lon": 2.3112777
+  },
+  {
+    "name": "Cerf, biche et faon au repos",
+    "type": NaN,
+    "lat": 48.7675955,
+    "lon": 2.3026392
+  },
+  {
+    "name": "Cerf, biche et faon courant",
+    "type": NaN,
+    "lat": 48.7675178,
+    "lon": 2.30213
+  },
+  {
+    "name": "Pharmacie Antony Briand",
+    "type": NaN,
+    "lat": 48.7583,
+    "lon": 2.306249
+  },
+  {
+    "name": "L'Art du Pain",
+    "type": "bakery",
+    "lat": 48.7589847,
+    "lon": 2.3068337
+  },
+  {
+    "name": "Marketway",
+    "type": "convenience",
+    "lat": 48.7579003,
+    "lon": 2.3064994
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.757815,
+    "lon": 2.3065459
+  },
+  {
+    "name": "Coiffelle",
+    "type": "hairdresser",
+    "lat": 48.762794,
+    "lon": 2.3137622
+  },
+  {
+    "name": "École maternelle et élémentaire André-Pasquier",
+    "type": NaN,
+    "lat": 48.7638444,
+    "lon": 2.3063908
+  },
+  {
+    "name": "Au Bon Pain d'Autrefois",
+    "type": "bakery",
+    "lat": 48.7613121,
+    "lon": 2.308319
+  },
+  {
+    "name": "Midas",
+    "type": "car_repair",
+    "lat": 48.7611663,
+    "lon": 2.3082428
+  },
+  {
+    "name": "Speedy",
+    "type": "car_repair",
+    "lat": 48.7622897,
+    "lon": 2.3087325
+  },
+  {
+    "name": "Hôtel Berny",
+    "type": NaN,
+    "lat": 48.7625809,
+    "lon": 2.3080685
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7694511,
+    "lon": 2.3159275
+  },
+  {
+    "name": "Centre Sanofi-Aventis",
+    "type": NaN,
+    "lat": 48.7691215,
+    "lon": 2.3123184
+  },
+  {
+    "name": "Franprix",
+    "type": "supermarket",
+    "lat": 48.7616704,
+    "lon": 2.3080593
+  },
+  {
+    "name": "Le Crédit Lyonnais",
+    "type": NaN,
+    "lat": 48.7614881,
+    "lon": 2.3083621
+  },
+  {
+    "name": "Pharmacie Hamarsy",
+    "type": NaN,
+    "lat": 48.762079,
+    "lon": 2.3081395
+  },
+  {
+    "name": "Crédit Mutuel Enseignant",
+    "type": NaN,
+    "lat": 48.7621858,
+    "lon": 2.3082343
+  },
+  {
+    "name": "Agora",
+    "type": "newsagent",
+    "lat": 48.7535645,
+    "lon": 2.3049223
+  },
+  {
+    "name": "Paul",
+    "type": "bakery",
+    "lat": 48.7532465,
+    "lon": 2.3052578
+  },
+  {
+    "name": "Police nationale",
+    "type": NaN,
+    "lat": 48.7606349,
+    "lon": 2.2976648
+  },
+  {
+    "name": "Sushi Antony",
+    "type": NaN,
+    "lat": 48.7609353,
+    "lon": 2.3081784
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.760819,
+    "lon": 2.3081171
+  },
+  {
+    "name": "Citroën",
+    "type": "car",
+    "lat": 48.7609466,
+    "lon": 2.3076755
+  },
+  {
+    "name": "Cabinet dentaire",
+    "type": NaN,
+    "lat": 48.7608023,
+    "lon": 2.3076382
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7534546,
+    "lon": 2.2963076
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546618,
+    "lon": 2.3000353
+  },
+  {
+    "name": "Tribunal de proximité",
+    "type": NaN,
+    "lat": 48.7547002,
+    "lon": 2.3000514
+  },
+  {
+    "name": "Crédit Agricole",
+    "type": NaN,
+    "lat": 48.7532605,
+    "lon": 2.3048445
+  },
+  {
+    "name": "Jokei",
+    "type": NaN,
+    "lat": 48.7494397,
+    "lon": 2.3039617
+  },
+  {
+    "name": "Baba Ghannouj",
+    "type": NaN,
+    "lat": 48.7617104,
+    "lon": 2.308464
+  },
+  {
+    "name": "O'Concept",
+    "type": NaN,
+    "lat": 48.7621482,
+    "lon": 2.3086377
+  },
+  {
+    "name": "Franprix",
+    "type": "convenience",
+    "lat": 48.7411911,
+    "lon": 2.3027988
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7633329,
+    "lon": 2.314024
+  },
+  {
+    "name": "Maison Lhérault",
+    "type": "bakery",
+    "lat": 48.7427929,
+    "lon": 2.2971296
+  },
+  {
+    "name": "Pharmacie Neveu",
+    "type": NaN,
+    "lat": 48.7427471,
+    "lon": 2.2971517
+  },
+  {
+    "name": "Bar PMU",
+    "type": NaN,
+    "lat": 48.7428667,
+    "lon": 2.2970989
+  },
+  {
+    "name": "Boulangerie Patisserie Kennedy",
+    "type": "bakery",
+    "lat": 48.7388212,
+    "lon": 2.2984112
+  },
+  {
+    "name": "Michalon Papillotes",
+    "type": "hairdresser",
+    "lat": 48.7427069,
+    "lon": 2.2968293
+  },
+  {
+    "name": "Brasserie de la gare",
+    "type": NaN,
+    "lat": 48.742761,
+    "lon": 2.2968083
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7599979,
+    "lon": 2.2978122
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7608684,
+    "lon": 2.2972361
+  },
+  {
+    "name": "Les 3 Marches",
+    "type": NaN,
+    "lat": 48.7361854,
+    "lon": 2.3017963
+  },
+  {
+    "name": NaN,
+    "type": "newsagent",
+    "lat": 48.7586221,
+    "lon": 2.3063446
+  },
+  {
+    "name": "1001 Piles Batteries",
+    "type": "doityourself",
+    "lat": 48.7575994,
+    "lon": 2.3068485
+  },
+  {
+    "name": "Matmut",
+    "type": NaN,
+    "lat": 48.756031,
+    "lon": 2.3061986
+  },
+  {
+    "name": "Weed Paradise CBD shop",
+    "type": "beauty",
+    "lat": 48.7361689,
+    "lon": 2.3019587
+  },
+  {
+    "name": "Antony Fenêtres",
+    "type": NaN,
+    "lat": 48.7407129,
+    "lon": 2.3020352
+  },
+  {
+    "name": "Madys",
+    "type": NaN,
+    "lat": 48.7412936,
+    "lon": 2.3028347
+  },
+  {
+    "name": "Pharmacie Lanlo",
+    "type": NaN,
+    "lat": 48.7416949,
+    "lon": 2.302896
+  },
+  {
+    "name": "Nathalie Coiffure",
+    "type": "hairdresser",
+    "lat": 48.7415745,
+    "lon": 2.302878
+  },
+  {
+    "name": "Les Pâquerettes",
+    "type": NaN,
+    "lat": 48.7426687,
+    "lon": 2.288436
+  },
+  {
+    "name": "École maternelle Val de Bièvre",
+    "type": NaN,
+    "lat": 48.7406427,
+    "lon": 2.2791819
+  },
+  {
+    "name": "Royal d'Antony",
+    "type": NaN,
+    "lat": 48.7410823,
+    "lon": 2.2821118
+  },
+  {
+    "name": "Sushi Antony",
+    "type": NaN,
+    "lat": 48.7410529,
+    "lon": 2.2820091
+  },
+  {
+    "name": "Aldi",
+    "type": "supermarket",
+    "lat": 48.7411511,
+    "lon": 2.2823578
+  },
+  {
+    "name": "Antony Pajeaud",
+    "type": NaN,
+    "lat": 48.7413593,
+    "lon": 2.2829732
+  },
+  {
+    "name": "Le phare de carthage",
+    "type": NaN,
+    "lat": 48.7412214,
+    "lon": 2.2826126
+  },
+  {
+    "name": "Pharmacie Val de Bièvre",
+    "type": NaN,
+    "lat": 48.7411104,
+    "lon": 2.2822119
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7440481,
+    "lon": 2.2909583
+  },
+  {
+    "name": "La Poste",
+    "type": NaN,
+    "lat": 48.7399141,
+    "lon": 2.3026199
+  },
+  {
+    "name": "Le Fournil de Maria",
+    "type": "bakery",
+    "lat": 48.7643964,
+    "lon": 2.3090796
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7633606,
+    "lon": 2.2995053
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7635929,
+    "lon": 2.3041792
+  },
+  {
+    "name": "Five",
+    "type": NaN,
+    "lat": 48.7547598,
+    "lon": 2.3013742
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7657344,
+    "lon": 2.3042761
+  },
+  {
+    "name": "Chez P'tit Viet",
+    "type": NaN,
+    "lat": 48.7598458,
+    "lon": 2.3073092
+  },
+  {
+    "name": "Collège Henri-George Adam",
+    "type": NaN,
+    "lat": 48.7386986,
+    "lon": 2.3072387
+  },
+  {
+    "name": "École primaire des Rabats",
+    "type": NaN,
+    "lat": 48.7392888,
+    "lon": 2.30758
+  },
+  {
+    "name": "Monoprix",
+    "type": "supermarket",
+    "lat": 48.7538147,
+    "lon": 2.3035473
+  },
+  {
+    "name": "Société Générale",
+    "type": NaN,
+    "lat": 48.7540437,
+    "lon": 2.3024314
+  },
+  {
+    "name": NaN,
+    "type": "bakery",
+    "lat": 48.770219,
+    "lon": 2.3161841
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7552569,
+    "lon": 2.3015699
+  },
+  {
+    "name": "Info Print Services",
+    "type": "printer_ink",
+    "lat": 48.7576737,
+    "lon": 2.3068774
+  },
+  {
+    "name": "École maternelle Adolphe Pajeaud",
+    "type": NaN,
+    "lat": 48.7415701,
+    "lon": 2.2851355
+  },
+  {
+    "name": "École élémentaire Adolphe Pajeaud",
+    "type": NaN,
+    "lat": 48.7413226,
+    "lon": 2.2855398
+  },
+  {
+    "name": "Centre de loisirs Parc Heller",
+    "type": NaN,
+    "lat": 48.7479904,
+    "lon": 2.2942169
+  },
+  {
+    "name": "Le fournil du mousquetaire",
+    "type": "bakery",
+    "lat": 48.7557556,
+    "lon": 2.2914944
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7634737,
+    "lon": 2.3013299
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7637327,
+    "lon": 2.2951273
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7626797,
+    "lon": 2.3008686
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7628489,
+    "lon": 2.3005053
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7648501,
+    "lon": 2.2995115
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7649753,
+    "lon": 2.3002876
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7650506,
+    "lon": 2.300784
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7651494,
+    "lon": 2.2994037
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7651999,
+    "lon": 2.30538
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7652694,
+    "lon": 2.3001874
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7653499,
+    "lon": 2.3006728
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7654269,
+    "lon": 2.2993058
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7655533,
+    "lon": 2.3000856
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7656049,
+    "lon": 2.3005757
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.765709,
+    "lon": 2.2992053
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.765833,
+    "lon": 2.2999885
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7658898,
+    "lon": 2.3004724
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7661904,
+    "lon": 2.2990318
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7663129,
+    "lon": 2.2998116
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7663821,
+    "lon": 2.3002923
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7665916,
+    "lon": 2.2997176
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76667,
+    "lon": 2.3001968
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7667465,
+    "lon": 2.2988334
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7668662,
+    "lon": 2.2996221
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669353,
+    "lon": 2.300095
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7675092,
+    "lon": 2.3026975
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7677971,
+    "lon": 2.3028792
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7680056,
+    "lon": 2.3030311
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7682296,
+    "lon": 2.303064
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7684752,
+    "lon": 2.3029778
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7632945,
+    "lon": 2.3039291
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7632881,
+    "lon": 2.3038805
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7662568,
+    "lon": 2.3046146
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7673074,
+    "lon": 2.3051852
+  },
+  {
+    "name": "Kiosque de la Grenouillère",
+    "type": NaN,
+    "lat": 48.7626247,
+    "lon": 2.3012219
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7707734,
+    "lon": 2.3100528
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7390298,
+    "lon": 2.28864
+  },
+  {
+    "name": "My Doner",
+    "type": NaN,
+    "lat": 48.747333,
+    "lon": 2.3035643
+  },
+  {
+    "name": "Osaka",
+    "type": NaN,
+    "lat": 48.7620198,
+    "lon": 2.3085851
+  },
+  {
+    "name": "Snack Show",
+    "type": NaN,
+    "lat": 48.7615883,
+    "lon": 2.3084101
+  },
+  {
+    "name": "SLB Benfica",
+    "type": NaN,
+    "lat": 48.7602985,
+    "lon": 2.3079253
+  },
+  {
+    "name": "SLB Benfica",
+    "type": NaN,
+    "lat": 48.760176,
+    "lon": 2.3078609
+  },
+  {
+    "name": "Institut national supérieur du professorat et de l'éducation de Versailles (site Antony)",
+    "type": NaN,
+    "lat": 48.7350851,
+    "lon": 2.3072821
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7469791,
+    "lon": 2.3159198
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7620184,
+    "lon": 2.2949724
+  },
+  {
+    "name": "Yannick & Guillaume",
+    "type": "hairdresser",
+    "lat": 48.7499534,
+    "lon": 2.3040896
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7477468,
+    "lon": 2.2936737
+  },
+  {
+    "name": "École maternelle Paul Bert",
+    "type": NaN,
+    "lat": 48.7457789,
+    "lon": 2.2964314
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7482935,
+    "lon": 2.2935994
+  },
+  {
+    "name": "La Tisanerie",
+    "type": "hookah",
+    "lat": 48.7536818,
+    "lon": 2.2971847
+  },
+  {
+    "name": "Godot & Fils",
+    "type": "gold_buyer",
+    "lat": 48.7530843,
+    "lon": 2.3050751
+  },
+  {
+    "name": "Mairie Annexe Pajeaud",
+    "type": NaN,
+    "lat": 48.7410484,
+    "lon": 2.2813687
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7451705,
+    "lon": 2.2889262
+  },
+  {
+    "name": "Bonheur d'Antony",
+    "type": NaN,
+    "lat": 48.7611129,
+    "lon": 2.2913205
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7589978,
+    "lon": 2.280489
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7590811,
+    "lon": 2.2782866
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7590531,
+    "lon": 2.279979
+  },
+  {
+    "name": "Jet d'Eau",
+    "type": NaN,
+    "lat": 48.7684666,
+    "lon": 2.3020587
+  },
+  {
+    "name": "Crèche Municipale Les Petits Princes",
+    "type": NaN,
+    "lat": 48.7404999,
+    "lon": 2.2801641
+  },
+  {
+    "name": "Trois P’tits Chats",
+    "type": NaN,
+    "lat": 48.7404394,
+    "lon": 2.2798848
+  },
+  {
+    "name": "Centre Commercial de la Bièvre",
+    "type": "mall",
+    "lat": 48.7412512,
+    "lon": 2.2827409
+  },
+  {
+    "name": "RER",
+    "type": NaN,
+    "lat": 48.7394372,
+    "lon": 2.2876765
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7430559,
+    "lon": 2.2965326
+  },
+  {
+    "name": "Boulangerie Au Bon Pain",
+    "type": "bakery",
+    "lat": 48.7406705,
+    "lon": 2.3026448
+  },
+  {
+    "name": "Espace Pajeaud",
+    "type": NaN,
+    "lat": 48.7414577,
+    "lon": 2.2826664
+  },
+  {
+    "name": "Rosselli",
+    "type": NaN,
+    "lat": 48.7411919,
+    "lon": 2.2838159
+  },
+  {
+    "name": "Giant Antony",
+    "type": "bicycle",
+    "lat": 48.7574456,
+    "lon": 2.3067813
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7548545,
+    "lon": 2.2839704
+  },
+  {
+    "name": "Le Blé en Herbe",
+    "type": NaN,
+    "lat": 48.7448985,
+    "lon": 2.2970969
+  },
+  {
+    "name": "L’Eau Vive",
+    "type": NaN,
+    "lat": 48.7451564,
+    "lon": 2.2972799
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7515317,
+    "lon": 2.2823368
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7514684,
+    "lon": 2.2821219
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543449,
+    "lon": 2.2831578
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7601501,
+    "lon": 2.2845009
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7602029,
+    "lon": 2.2844416
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7602727,
+    "lon": 2.2845026
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7597798,
+    "lon": 2.2837506
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7425775,
+    "lon": 2.2812497
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7423326,
+    "lon": 2.2819138
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.742397,
+    "lon": 2.2819503
+  },
+  {
+    "name": "amo pizza romana",
+    "type": NaN,
+    "lat": 48.7521841,
+    "lon": 2.3040357
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7626014,
+    "lon": 2.2948017
+  },
+  {
+    "name": "Parc à Vélos",
+    "type": NaN,
+    "lat": 48.7548068,
+    "lon": 2.2997165
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7633357,
+    "lon": 2.3084726
+  },
+  {
+    "name": "Marché",
+    "type": NaN,
+    "lat": 48.7524248,
+    "lon": 2.3043071
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75464,
+    "lon": 2.2976586
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7388971,
+    "lon": 2.3059267
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7389532,
+    "lon": 2.3058276
+  },
+  {
+    "name": "Draeger Médical SAS",
+    "type": NaN,
+    "lat": 48.7298912,
+    "lon": 2.3095361
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74071,
+    "lon": 2.3156461
+  },
+  {
+    "name": "Le Saint-Augustin",
+    "type": NaN,
+    "lat": 48.7565352,
+    "lon": 2.297622
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7453026,
+    "lon": 2.2848319
+  },
+  {
+    "name": "Marché",
+    "type": NaN,
+    "lat": 48.7529338,
+    "lon": 2.302777
+  },
+  {
+    "name": "Marché Cinéma",
+    "type": NaN,
+    "lat": 48.7531179,
+    "lon": 2.303891
+  },
+  {
+    "name": "Conservatoire",
+    "type": NaN,
+    "lat": 48.7442162,
+    "lon": 2.3029296
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758268,
+    "lon": 2.3052028
+  },
+  {
+    "name": "Espace Henri Lasson",
+    "type": NaN,
+    "lat": 48.7529371,
+    "lon": 2.3038784
+  },
+  {
+    "name": "Tétard et Nénuphar",
+    "type": "toys",
+    "lat": 48.7532859,
+    "lon": 2.3061849
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7501308,
+    "lon": 2.3000399
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7495213,
+    "lon": 2.2998027
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7497939,
+    "lon": 2.3004776
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7503168,
+    "lon": 2.301144
+  },
+  {
+    "name": "Centre Communal d’Action Sociale",
+    "type": NaN,
+    "lat": 48.7445047,
+    "lon": 2.2968255
+  },
+  {
+    "name": "La Passerelle",
+    "type": "books",
+    "lat": 48.7532343,
+    "lon": 2.3036572
+  },
+  {
+    "name": "Parking Centre-Ville",
+    "type": NaN,
+    "lat": 48.7524752,
+    "lon": 2.3032638
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527144,
+    "lon": 2.3039545
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527543,
+    "lon": 2.3038825
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.755523,
+    "lon": 2.2986693
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532947,
+    "lon": 2.2796299
+  },
+  {
+    "name": "Le Berny",
+    "type": NaN,
+    "lat": 48.7623496,
+    "lon": 2.3083115
+  },
+  {
+    "name": "Yves Rocher",
+    "type": "beauty",
+    "lat": 48.7539344,
+    "lon": 2.30295
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7520566,
+    "lon": 2.2817003
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7520678,
+    "lon": 2.2814678
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7520863,
+    "lon": 2.2816516
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7521168,
+    "lon": 2.2815993
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7521521,
+    "lon": 2.2815262
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7533089,
+    "lon": 2.2799291
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7533237,
+    "lon": 2.2799004
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7533249,
+    "lon": 2.2798761
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7533426,
+    "lon": 2.2798587
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7355201,
+    "lon": 2.2793749
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7356924,
+    "lon": 2.2805245
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546572,
+    "lon": 2.2978651
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546837,
+    "lon": 2.2986989
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7394632,
+    "lon": 2.2873683
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7355548,
+    "lon": 2.2891217
+  },
+  {
+    "name": "Aldi",
+    "type": "supermarket",
+    "lat": 48.7393137,
+    "lon": 2.2893195
+  },
+  {
+    "name": "MFC",
+    "type": NaN,
+    "lat": 48.7392789,
+    "lon": 2.2891071
+  },
+  {
+    "name": "Tokyo Sushi",
+    "type": NaN,
+    "lat": 48.7392809,
+    "lon": 2.2889599
+  },
+  {
+    "name": "Tô Minh Luân",
+    "type": NaN,
+    "lat": 48.7390926,
+    "lon": 2.2897243
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7391261,
+    "lon": 2.2898294
+  },
+  {
+    "name": "Orpi",
+    "type": NaN,
+    "lat": 48.7527799,
+    "lon": 2.3049695
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7554568,
+    "lon": 2.3009723
+  },
+  {
+    "name": "Antony Agence De La Gare Orpi",
+    "type": NaN,
+    "lat": 48.754643,
+    "lon": 2.2991668
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7472384,
+    "lon": 2.2856885
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7479795,
+    "lon": 2.2928743
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7456618,
+    "lon": 2.287728
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7468952,
+    "lon": 2.2891858
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7476296,
+    "lon": 2.292339
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7468981,
+    "lon": 2.2903588
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7469613,
+    "lon": 2.2891835
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7462297,
+    "lon": 2.2895139
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7457511,
+    "lon": 2.2882061
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7465741,
+    "lon": 2.2903251
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7462361,
+    "lon": 2.2889981
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7459044,
+    "lon": 2.2893274
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7461755,
+    "lon": 2.2864192
+  },
+  {
+    "name": "Abri",
+    "type": NaN,
+    "lat": 48.7667258,
+    "lon": 2.2981972
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624266,
+    "lon": 2.2996411
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7633988,
+    "lon": 2.3041099
+  },
+  {
+    "name": "Domaine départemental de Sceaux - Bienvenue",
+    "type": NaN,
+    "lat": 48.7690018,
+    "lon": 2.3053235
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7547923,
+    "lon": 2.3002967
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7551243,
+    "lon": 2.3008132
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545455,
+    "lon": 2.3004765
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544425,
+    "lon": 2.3008999
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7617185,
+    "lon": 2.2957146
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545237,
+    "lon": 2.3004284
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754534,
+    "lon": 2.3003787
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545533,
+    "lon": 2.3002763
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545632,
+    "lon": 2.3002274
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546581,
+    "lon": 2.3005276
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7553979,
+    "lon": 2.299252
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7641215,
+    "lon": 2.2989526
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.764476,
+    "lon": 2.2991853
+  },
+  {
+    "name": "Plan de Ville",
+    "type": NaN,
+    "lat": 48.7442239,
+    "lon": 2.2868365
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.744888,
+    "lon": 2.2878852
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7678552,
+    "lon": 2.3054173
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669001,
+    "lon": 2.3012234
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669281,
+    "lon": 2.3012907
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7670387,
+    "lon": 2.2976057
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669019,
+    "lon": 2.2928132
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7665604,
+    "lon": 2.29459
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7666147,
+    "lon": 2.2949373
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7666686,
+    "lon": 2.2952808
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7667279,
+    "lon": 2.2956331
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7667961,
+    "lon": 2.2960723
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7668512,
+    "lon": 2.2964362
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.766987,
+    "lon": 2.2972632
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7592365,
+    "lon": 2.2794473
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481128,
+    "lon": 2.3124753
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481261,
+    "lon": 2.312448
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481189,
+    "lon": 2.3124367
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481224,
+    "lon": 2.3124367
+  },
+  {
+    "name": "Espace La Fontaine",
+    "type": NaN,
+    "lat": 48.7702552,
+    "lon": 2.3160057
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478551,
+    "lon": 2.3122984
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478743,
+    "lon": 2.3128004
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478534,
+    "lon": 2.3121872
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478656,
+    "lon": 2.3132914
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478734,
+    "lon": 2.3124179
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478652,
+    "lon": 2.31326
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478682,
+    "lon": 2.3129783
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7479777,
+    "lon": 2.3136499
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478684,
+    "lon": 2.312736
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478709,
+    "lon": 2.3123993
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480009,
+    "lon": 2.3123581
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7479932,
+    "lon": 2.3122898
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480226,
+    "lon": 2.3130287
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480259,
+    "lon": 2.31297
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478515,
+    "lon": 2.3127327
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478529,
+    "lon": 2.3124863
+  },
+  {
+    "name": "Anne Frank",
+    "type": NaN,
+    "lat": 48.7427678,
+    "lon": 2.2863659
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7428165,
+    "lon": 2.286515
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546088,
+    "lon": 2.3006914
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7523073,
+    "lon": 2.2867863
+  },
+  {
+    "name": "Imagerie Medicale du Bois de Verrières",
+    "type": NaN,
+    "lat": 48.7531337,
+    "lon": 2.2879828
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7429397,
+    "lon": 2.3076993
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7404845,
+    "lon": 2.3026574
+  },
+  {
+    "name": "La Banque Postale",
+    "type": NaN,
+    "lat": 48.7413077,
+    "lon": 2.2829879
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7412427,
+    "lon": 2.2830395
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669035,
+    "lon": 2.3015148
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7363881,
+    "lon": 2.2862572
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7655532,
+    "lon": 2.3031165
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7658552,
+    "lon": 2.304385
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7362773,
+    "lon": 2.2858289
+  },
+  {
+    "name": "Plan de Ville",
+    "type": NaN,
+    "lat": 48.7482043,
+    "lon": 2.3129946
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.739079,
+    "lon": 2.2896484
+  },
+  {
+    "name": "Point Info Mairie Annexe",
+    "type": NaN,
+    "lat": 48.739041,
+    "lon": 2.2894901
+  },
+  {
+    "name": "Le Fournil du Nil",
+    "type": "bakery",
+    "lat": 48.738885,
+    "lon": 2.2889675
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7425027,
+    "lon": 2.2806978
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7425575,
+    "lon": 2.2808064
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624623,
+    "lon": 2.3003077
+  },
+  {
+    "name": "Fenzy Design",
+    "type": "furniture",
+    "lat": 48.7604221,
+    "lon": 2.3080005
+  },
+  {
+    "name": "Point Smoke",
+    "type": "e-cigarette",
+    "lat": 48.7618046,
+    "lon": 2.308513
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600428,
+    "lon": 2.3100722
+  },
+  {
+    "name": "Primeur",
+    "type": "greengrocer",
+    "lat": 48.759246,
+    "lon": 2.3068144
+  },
+  {
+    "name": "2A Antony Accessoires",
+    "type": "car_parts",
+    "lat": 48.7610511,
+    "lon": 2.3077517
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7573335,
+    "lon": 2.3031413
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7570901,
+    "lon": 2.3054864
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7354999,
+    "lon": 2.2868636
+  },
+  {
+    "name": "La Fontana",
+    "type": NaN,
+    "lat": 48.764699,
+    "lon": 2.3098255
+  },
+  {
+    "name": "Chez Quyen-Chi",
+    "type": NaN,
+    "lat": 48.7485498,
+    "lon": 2.3042334
+  },
+  {
+    "name": "Foncia Immobilias",
+    "type": NaN,
+    "lat": 48.7639314,
+    "lon": 2.3051992
+  },
+  {
+    "name": "CIC",
+    "type": NaN,
+    "lat": 48.7539446,
+    "lon": 2.3020209
+  },
+  {
+    "name": "Ph. Dupont La Belle Viande",
+    "type": "butcher",
+    "lat": 48.7540605,
+    "lon": 2.3023298
+  },
+  {
+    "name": "Pharmacie du Métro",
+    "type": NaN,
+    "lat": 48.7541845,
+    "lon": 2.3017069
+  },
+  {
+    "name": "Jeff de Bruges",
+    "type": "chocolate",
+    "lat": 48.7540969,
+    "lon": 2.3021647
+  },
+  {
+    "name": "Boulangerie Pâtisserie Saines Saveurs",
+    "type": "bakery",
+    "lat": 48.7542464,
+    "lon": 2.3013819
+  },
+  {
+    "name": "Plan de Ville",
+    "type": NaN,
+    "lat": 48.743217,
+    "lon": 2.2967109
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7432473,
+    "lon": 2.2967231
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7590573,
+    "lon": 2.2914163
+  },
+  {
+    "name": "Funérarium",
+    "type": "funeral_directors",
+    "lat": 48.7592548,
+    "lon": 2.2908721
+  },
+  {
+    "name": "Naturalia",
+    "type": "supermarket",
+    "lat": 48.7585373,
+    "lon": 2.3071789
+  },
+  {
+    "name": "La Table d'Antony",
+    "type": NaN,
+    "lat": 48.7644973,
+    "lon": 2.3097571
+  },
+  {
+    "name": "Petit Tang",
+    "type": "supermarket",
+    "lat": 48.7697596,
+    "lon": 2.3162115
+  },
+  {
+    "name": "Novel'Hair",
+    "type": "hairdresser",
+    "lat": 48.7701854,
+    "lon": 2.3163225
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7420092,
+    "lon": 2.2848733
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7412021,
+    "lon": 2.2844216
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7558454,
+    "lon": 2.2838932
+  },
+  {
+    "name": "Chemin de Compostelle",
+    "type": NaN,
+    "lat": 48.7518704,
+    "lon": 2.281852
+  },
+  {
+    "name": "Le Fontenoy",
+    "type": NaN,
+    "lat": 48.7427399,
+    "lon": 2.3030935
+  },
+  {
+    "name": "Best Style",
+    "type": "hairdresser",
+    "lat": 48.7407153,
+    "lon": 2.3026667
+  },
+  {
+    "name": "Ada",
+    "type": NaN,
+    "lat": 48.7388413,
+    "lon": 2.3023144
+  },
+  {
+    "name": "Pho",
+    "type": NaN,
+    "lat": 48.7383052,
+    "lon": 2.3022308
+  },
+  {
+    "name": "Istanbul's Grill",
+    "type": NaN,
+    "lat": 48.7386405,
+    "lon": 2.3022903
+  },
+  {
+    "name": "Narisawa",
+    "type": NaN,
+    "lat": 48.7400665,
+    "lon": 2.3025004
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7398499,
+    "lon": 2.3025283
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7360092,
+    "lon": 2.2900311
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7358568,
+    "lon": 2.2900118
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7360404,
+    "lon": 2.2891734
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7356666,
+    "lon": 2.2893397
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7360298,
+    "lon": 2.2891409
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7358368,
+    "lon": 2.2900095
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.735655,
+    "lon": 2.2893905
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481761,
+    "lon": 2.2849258
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481731,
+    "lon": 2.2849036
+  },
+  {
+    "name": "LCL",
+    "type": NaN,
+    "lat": 48.7512379,
+    "lon": 2.3043309
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7507015,
+    "lon": 2.3043381
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7373307,
+    "lon": 2.2898387
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7485951,
+    "lon": 2.307616
+  },
+  {
+    "name": "Class'croute",
+    "type": NaN,
+    "lat": 48.7327511,
+    "lon": 2.3141159
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7536622,
+    "lon": 2.2785559
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.759458,
+    "lon": 2.2816582
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7644327,
+    "lon": 2.3095483
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7570463,
+    "lon": 2.3065312
+  },
+  {
+    "name": "Bio C' Bon",
+    "type": "supermarket",
+    "lat": 48.7568802,
+    "lon": 2.3065474
+  },
+  {
+    "name": "Atol",
+    "type": "optician",
+    "lat": 48.7543066,
+    "lon": 2.3011165
+  },
+  {
+    "name": "Firmin",
+    "type": NaN,
+    "lat": 48.7544706,
+    "lon": 2.2974773
+  },
+  {
+    "name": "L'Instant Zen",
+    "type": "beauty",
+    "lat": 48.7526829,
+    "lon": 2.3009381
+  },
+  {
+    "name": "Ludothèque Associative l'Arbre à jouets",
+    "type": NaN,
+    "lat": 48.7550323,
+    "lon": 2.2951542
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.746154,
+    "lon": 2.3143803
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7460922,
+    "lon": 2.3143526
+  },
+  {
+    "name": "Tiplo",
+    "type": "fireplace",
+    "lat": 48.7360933,
+    "lon": 2.301731
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7362603,
+    "lon": 2.3016437
+  },
+  {
+    "name": "Mariette DFD",
+    "type": "paint",
+    "lat": 48.7354229,
+    "lon": 2.301775
+  },
+  {
+    "name": "Banque Populaire",
+    "type": NaN,
+    "lat": 48.7390396,
+    "lon": 2.3023309
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538361,
+    "lon": 2.3078844
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75345,
+    "lon": 2.3090671
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532925,
+    "lon": 2.3086353
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7555874,
+    "lon": 2.3060144
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543284,
+    "lon": 2.3053619
+  },
+  {
+    "name": "Fabrice Duconte",
+    "type": "bakery",
+    "lat": 48.7540761,
+    "lon": 2.3051516
+  },
+  {
+    "name": "Point Info Médiation Multi-Services",
+    "type": NaN,
+    "lat": 48.7390624,
+    "lon": 2.2895752
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7391448,
+    "lon": 2.2896803
+  },
+  {
+    "name": "Conservatoire National des Véhicules Anciens",
+    "type": NaN,
+    "lat": 48.7377415,
+    "lon": 2.3125568
+  },
+  {
+    "name": "La Scala",
+    "type": NaN,
+    "lat": 48.732858,
+    "lon": 2.31424
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.750471,
+    "lon": 2.3045908
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7628931,
+    "lon": 2.308858
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7586658,
+    "lon": 2.3072372
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7588769,
+    "lon": 2.3072603
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7667331,
+    "lon": 2.3104406
+  },
+  {
+    "name": "Alain Afflelou",
+    "type": "optician",
+    "lat": 48.7536006,
+    "lon": 2.3034472
+  },
+  {
+    "name": "Celio",
+    "type": "clothes",
+    "lat": 48.7536144,
+    "lon": 2.303657
+  },
+  {
+    "name": "Maison Jourquin",
+    "type": "seafood",
+    "lat": 48.7535724,
+    "lon": 2.3052082
+  },
+  {
+    "name": "Carrefour city",
+    "type": "supermarket",
+    "lat": 48.7536823,
+    "lon": 2.3042263
+  },
+  {
+    "name": "Olivier et Sandrine Couderc",
+    "type": "butcher",
+    "lat": 48.7536268,
+    "lon": 2.3044749
+  },
+  {
+    "name": "Café des Sports",
+    "type": NaN,
+    "lat": 48.7533554,
+    "lon": 2.3048345
+  },
+  {
+    "name": "Aranis Cuisine",
+    "type": "interior_decoration",
+    "lat": 48.7538547,
+    "lon": 2.3033707
+  },
+  {
+    "name": "De Neuville",
+    "type": "chocolate",
+    "lat": 48.7536592,
+    "lon": 2.3035167
+  },
+  {
+    "name": "Anwal",
+    "type": NaN,
+    "lat": 48.7537787,
+    "lon": 2.3037724
+  },
+  {
+    "name": "Okaïdi+",
+    "type": "clothes",
+    "lat": 48.7536602,
+    "lon": 2.3043506
+  },
+  {
+    "name": "La Maison du Fromage",
+    "type": "cheese",
+    "lat": 48.7534718,
+    "lon": 2.3044017
+  },
+  {
+    "name": "Caisse d'Épargne",
+    "type": NaN,
+    "lat": 48.7534212,
+    "lon": 2.3046213
+  },
+  {
+    "name": "Adolphe",
+    "type": "clothes",
+    "lat": 48.7536019,
+    "lon": 2.3046039
+  },
+  {
+    "name": "United Colors of Benetton",
+    "type": "clothes",
+    "lat": 48.7538666,
+    "lon": 2.3033019
+  },
+  {
+    "name": "BNP Paribas",
+    "type": NaN,
+    "lat": 48.7535651,
+    "lon": 2.3039126
+  },
+  {
+    "name": "Bar Costa Viola",
+    "type": NaN,
+    "lat": 48.7534638,
+    "lon": 2.3034348
+  },
+  {
+    "name": "Point Vision",
+    "type": NaN,
+    "lat": 48.7533616,
+    "lon": 2.3033279
+  },
+  {
+    "name": "BNP Paribas",
+    "type": NaN,
+    "lat": 48.7535844,
+    "lon": 2.303812
+  },
+  {
+    "name": "Photo Vit",
+    "type": NaN,
+    "lat": 48.7536444,
+    "lon": 2.30358
+  },
+  {
+    "name": "Au Gourmet d'Antony",
+    "type": "butcher",
+    "lat": 48.7537649,
+    "lon": 2.3038372
+  },
+  {
+    "name": "Jean Louis David",
+    "type": "hairdresser",
+    "lat": 48.7535014,
+    "lon": 2.3042347
+  },
+  {
+    "name": "Le Repère de Bacchus",
+    "type": "wine",
+    "lat": 48.7534608,
+    "lon": 2.3044726
+  },
+  {
+    "name": "Viva'Son",
+    "type": "hearing_aids",
+    "lat": 48.753594,
+    "lon": 2.3047193
+  },
+  {
+    "name": "Lady Di",
+    "type": "clothes",
+    "lat": 48.7538444,
+    "lon": 2.3034243
+  },
+  {
+    "name": "À la Fontaine Fleurie",
+    "type": "florist",
+    "lat": 48.7537419,
+    "lon": 2.3029885
+  },
+  {
+    "name": "Collège privé Sainte-Marie La Croix",
+    "type": NaN,
+    "lat": 48.7537515,
+    "lon": 2.2996619
+  },
+  {
+    "name": "Lycée général et technologique privé Sainte-Marie La Croix",
+    "type": NaN,
+    "lat": 48.7534248,
+    "lon": 2.2988517
+  },
+  {
+    "name": "Crèche Pamplemousse",
+    "type": NaN,
+    "lat": 48.7630704,
+    "lon": 2.3071829
+  },
+  {
+    "name": "Maif Antony",
+    "type": NaN,
+    "lat": 48.7522563,
+    "lon": 2.3047877
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7597044,
+    "lon": 2.2839971
+  },
+  {
+    "name": "Panneau d'affichage associatif",
+    "type": NaN,
+    "lat": 48.7482111,
+    "lon": 2.2948616
+  },
+  {
+    "name": "Panneau d'affichage associatif",
+    "type": NaN,
+    "lat": 48.7459855,
+    "lon": 2.2960942
+  },
+  {
+    "name": "Panneau d'affichage associatif",
+    "type": NaN,
+    "lat": 48.7582929,
+    "lon": 2.3067506
+  },
+  {
+    "name": "Panneau d'affichage associatif",
+    "type": NaN,
+    "lat": 48.7598789,
+    "lon": 2.2980951
+  },
+  {
+    "name": "Pressing du Parc Heller",
+    "type": "dry_cleaning",
+    "lat": 48.7469094,
+    "lon": 2.2948044
+  },
+  {
+    "name": "Emilia Retouche",
+    "type": NaN,
+    "lat": 48.7468705,
+    "lon": 2.2948723
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7467944,
+    "lon": 2.2949637
+  },
+  {
+    "name": "Marie B",
+    "type": "hairdresser",
+    "lat": 48.746821,
+    "lon": 2.294918
+  },
+  {
+    "name": "Boulangerie Patisserie Pajeaud",
+    "type": "bakery",
+    "lat": 48.7412838,
+    "lon": 2.2827836
+  },
+  {
+    "name": "GARAGE LE VILLAGE - ANTONY",
+    "type": "car_repair",
+    "lat": 48.7414275,
+    "lon": 2.3023219
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7335968,
+    "lon": 2.2809815
+  },
+  {
+    "name": "Noblessa Cuisines",
+    "type": "kitchen",
+    "lat": 48.7433484,
+    "lon": 2.3032137
+  },
+  {
+    "name": "Affichage Associatif et d'Opinion",
+    "type": NaN,
+    "lat": 48.7436815,
+    "lon": 2.3115749
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7436647,
+    "lon": 2.3115485
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7456797,
+    "lon": 2.3148835
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.743784,
+    "lon": 2.3118617
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7456282,
+    "lon": 2.3145807
+  },
+  {
+    "name": "Mairie Annexe Guillebaud",
+    "type": NaN,
+    "lat": 48.7461322,
+    "lon": 2.3145412
+  },
+  {
+    "name": "Service Communal d'Hygiène et de Santé",
+    "type": NaN,
+    "lat": 48.7460896,
+    "lon": 2.3145568
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7463262,
+    "lon": 2.314399
+  },
+  {
+    "name": "Affichage Associatif et d'Opinion",
+    "type": NaN,
+    "lat": 48.7463234,
+    "lon": 2.3144484
+  },
+  {
+    "name": "Michel Hadjadj",
+    "type": NaN,
+    "lat": 48.7410036,
+    "lon": 2.3022565
+  },
+  {
+    "name": "Hair Style Coiffure",
+    "type": "hairdresser",
+    "lat": 48.748682,
+    "lon": 2.3038437
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7430985,
+    "lon": 2.2868721
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7427427,
+    "lon": 2.2862895
+  },
+  {
+    "name": "Club des Aînés",
+    "type": NaN,
+    "lat": 48.7374374,
+    "lon": 2.3036426
+  },
+  {
+    "name": "Ibis budget Antony Massy",
+    "type": NaN,
+    "lat": 48.7358066,
+    "lon": 2.3144532
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.736054,
+    "lon": 2.3024929
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7629899,
+    "lon": 2.310002
+  },
+  {
+    "name": "Planet Sushi",
+    "type": NaN,
+    "lat": 48.7560993,
+    "lon": 2.3059041
+  },
+  {
+    "name": "Manucure Du Parc",
+    "type": "beauty",
+    "lat": 48.7566594,
+    "lon": 2.3064484
+  },
+  {
+    "name": "Yellow Corner",
+    "type": NaN,
+    "lat": 48.7567227,
+    "lon": 2.3064732
+  },
+  {
+    "name": "Antony M' Voyages",
+    "type": "travel_agency",
+    "lat": 48.7514802,
+    "lon": 2.3043228
+  },
+  {
+    "name": "Services & Tickets RATP (Antony)",
+    "type": "ticket",
+    "lat": 48.7550062,
+    "lon": 2.301084
+  },
+  {
+    "name": "Services & Tickets RATP (Parc de Sceaux)",
+    "type": "ticket",
+    "lat": 48.7707026,
+    "lon": 2.3102408
+  },
+  {
+    "name": "Les Galopins",
+    "type": NaN,
+    "lat": 48.7498403,
+    "lon": 2.3040371
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7496258,
+    "lon": 2.3041661
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7476396,
+    "lon": 2.3037771
+  },
+  {
+    "name": "Le Madère",
+    "type": NaN,
+    "lat": 48.749673,
+    "lon": 2.3040219
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7404639,
+    "lon": 2.3064743
+  },
+  {
+    "name": "Affichage Associatif et d'Opinion",
+    "type": NaN,
+    "lat": 48.7405199,
+    "lon": 2.3065195
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7401005,
+    "lon": 2.3062483
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7382327,
+    "lon": 2.2973421
+  },
+  {
+    "name": "L'adresse Agence Antony Parc",
+    "type": NaN,
+    "lat": 48.7452648,
+    "lon": 2.2949833
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7585554,
+    "lon": 2.3001503
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7577879,
+    "lon": 2.3065869
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7584362,
+    "lon": 2.277512
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7630456,
+    "lon": 2.309055
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763782,
+    "lon": 2.3113183
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7640277,
+    "lon": 2.3105919
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76424,
+    "lon": 2.3099153
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7551082,
+    "lon": 2.3009128
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7552568,
+    "lon": 2.3012426
+  },
+  {
+    "name": "Comptoir des Cotonniers",
+    "type": "clothes",
+    "lat": 48.7548672,
+    "lon": 2.30139
+  },
+  {
+    "name": "À la Coiffe Bretonne",
+    "type": NaN,
+    "lat": 48.7550107,
+    "lon": 2.301464
+  },
+  {
+    "name": "Café de la Gare",
+    "type": NaN,
+    "lat": 48.7545003,
+    "lon": 2.3011839
+  },
+  {
+    "name": "Bismuth",
+    "type": "optician",
+    "lat": 48.7546689,
+    "lon": 2.3012831
+  },
+  {
+    "name": "Speedwash",
+    "type": NaN,
+    "lat": 48.7608607,
+    "lon": 2.2916838
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7687681,
+    "lon": 2.3039616
+  },
+  {
+    "name": "Véloscénie",
+    "type": NaN,
+    "lat": 48.7403497,
+    "lon": 2.2747193
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7496975,
+    "lon": 2.3045789
+  },
+  {
+    "name": "Affichage Associatif et d'Opinion",
+    "type": NaN,
+    "lat": 48.7496752,
+    "lon": 2.3046015
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7473869,
+    "lon": 2.3097059
+  },
+  {
+    "name": "Affichage Associatif et d'Opinion",
+    "type": NaN,
+    "lat": 48.7473841,
+    "lon": 2.3097553
+  },
+  {
+    "name": "Maison des Arts",
+    "type": NaN,
+    "lat": 48.7551496,
+    "lon": 2.3024307
+  },
+  {
+    "name": "Ets LOREL Sarl",
+    "type": NaN,
+    "lat": 48.7448414,
+    "lon": 2.2955802
+  },
+  {
+    "name": "La Bonne Adresse",
+    "type": NaN,
+    "lat": 48.745082,
+    "lon": 2.2956108
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7636748,
+    "lon": 2.3112899
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7637215,
+    "lon": 2.3111416
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7460051,
+    "lon": 2.303355
+  },
+  {
+    "name": "Century 21",
+    "type": NaN,
+    "lat": 48.7459432,
+    "lon": 2.3032571
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7470008,
+    "lon": 2.3035964
+  },
+  {
+    "name": "Schmidt",
+    "type": "kitchen",
+    "lat": 48.7468991,
+    "lon": 2.3039612
+  },
+  {
+    "name": "Ani Immobilier",
+    "type": NaN,
+    "lat": 48.7487269,
+    "lon": 2.3038217
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538166,
+    "lon": 2.30525
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7620556,
+    "lon": 2.3082715
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624269,
+    "lon": 2.3084204
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7566093,
+    "lon": 2.3087144
+  },
+  {
+    "name": "Express Food",
+    "type": NaN,
+    "lat": 48.7542985,
+    "lon": 2.3055256
+  },
+  {
+    "name": "Olfa",
+    "type": "jewelry",
+    "lat": 48.7541986,
+    "lon": 2.3054908
+  },
+  {
+    "name": "Michel Chauss",
+    "type": "shoes",
+    "lat": 48.754144,
+    "lon": 2.3054821
+  },
+  {
+    "name": "Leonidas",
+    "type": "chocolate",
+    "lat": 48.7524798,
+    "lon": 2.3045628
+  },
+  {
+    "name": "Cook Eat",
+    "type": NaN,
+    "lat": 48.7543867,
+    "lon": 2.305561
+  },
+  {
+    "name": "Antony Moquette Décors",
+    "type": "doityourself",
+    "lat": 48.7538157,
+    "lon": 2.304743
+  },
+  {
+    "name": "Mistigrif",
+    "type": "clothes",
+    "lat": 48.754199,
+    "lon": 2.3051922
+  },
+  {
+    "name": "La Cave À Vin - Frédéric Pilmes",
+    "type": "wine",
+    "lat": 48.7525181,
+    "lon": 2.3045689
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7628473,
+    "lon": 2.3051399
+  },
+  {
+    "name": "BD Geek",
+    "type": "anime",
+    "lat": 48.7566072,
+    "lon": 2.3060834
+  },
+  {
+    "name": "Geox",
+    "type": "shoes",
+    "lat": 48.7569881,
+    "lon": 2.30622
+  },
+  {
+    "name": "Elinza",
+    "type": "shoes",
+    "lat": 48.7571371,
+    "lon": 2.3062743
+  },
+  {
+    "name": "L'Atelier du Sourcil",
+    "type": "beauty",
+    "lat": 48.7569167,
+    "lon": 2.3061865
+  },
+  {
+    "name": "La Lucania",
+    "type": NaN,
+    "lat": 48.7580366,
+    "lon": 2.3069926
+  },
+  {
+    "name": "Sushi Yaki",
+    "type": NaN,
+    "lat": 48.7472065,
+    "lon": 2.3039839
+  },
+  {
+    "name": "Accès RER B",
+    "type": NaN,
+    "lat": 48.7629034,
+    "lon": 2.3053992
+  },
+  {
+    "name": "Panorama",
+    "type": NaN,
+    "lat": 48.7492487,
+    "lon": 2.3039273
+  },
+  {
+    "name": "Gold Archery",
+    "type": "sports",
+    "lat": 48.7392555,
+    "lon": 2.3023988
+  },
+  {
+    "name": "Maison des Ans Toniques",
+    "type": NaN,
+    "lat": 48.7554991,
+    "lon": 2.3025101
+  },
+  {
+    "name": "Collège Descartes",
+    "type": NaN,
+    "lat": 48.7498618,
+    "lon": 2.3162479
+  },
+  {
+    "name": "Lycée Descartes",
+    "type": NaN,
+    "lat": 48.7492461,
+    "lon": 2.3135067
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481248,
+    "lon": 2.312603
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480292,
+    "lon": 2.3126885
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480299,
+    "lon": 2.31273
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480226,
+    "lon": 2.3130449
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7478675,
+    "lon": 2.3125498
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7484453,
+    "lon": 2.3128278
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7483876,
+    "lon": 2.3126268
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.748373,
+    "lon": 2.3126476
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7484616,
+    "lon": 2.3128065
+  },
+  {
+    "name": "Centre Local d’Information et de Coordination Gérontologique",
+    "type": NaN,
+    "lat": 48.7445768,
+    "lon": 2.2966988
+  },
+  {
+    "name": "Biocoop",
+    "type": "supermarket",
+    "lat": 48.751126,
+    "lon": 2.3042768
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7541797,
+    "lon": 2.3065757
+  },
+  {
+    "name": "Véloscénie",
+    "type": NaN,
+    "lat": 48.7406954,
+    "lon": 2.2745954
+  },
+  {
+    "name": "PMI",
+    "type": NaN,
+    "lat": 48.7446454,
+    "lon": 2.29623
+  },
+  {
+    "name": "Espace Guillebaud",
+    "type": NaN,
+    "lat": 48.7473468,
+    "lon": 2.3149841
+  },
+  {
+    "name": "École primaire publique Dunoyer de Segonzac",
+    "type": NaN,
+    "lat": 48.7483416,
+    "lon": 2.314763
+  },
+  {
+    "name": "École Maternelle Dunoyer de Ségonzac",
+    "type": NaN,
+    "lat": 48.7482842,
+    "lon": 2.3145652
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7472104,
+    "lon": 2.3142486
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7473217,
+    "lon": 2.3135906
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7491202,
+    "lon": 2.3153991
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7635343,
+    "lon": 2.3120853
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7634054,
+    "lon": 2.3119571
+  },
+  {
+    "name": "Crédit Mutuel",
+    "type": NaN,
+    "lat": 48.7526031,
+    "lon": 2.3049013
+  },
+  {
+    "name": "Services Tickets RATP (Les Baconnets)",
+    "type": "ticket",
+    "lat": 48.7395156,
+    "lon": 2.2873677
+  },
+  {
+    "name": "L'adresse Agence Antony Parc",
+    "type": NaN,
+    "lat": 48.7418853,
+    "lon": 2.3024444
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7535519,
+    "lon": 2.3041554
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7565365,
+    "lon": 2.3063335
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545776,
+    "lon": 2.2996086
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544109,
+    "lon": 2.2996485
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7587885,
+    "lon": 2.3017093
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7612459,
+    "lon": 2.3082213
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7596382,
+    "lon": 2.3075774
+  },
+  {
+    "name": "Espace petite enfance Pajeaud",
+    "type": NaN,
+    "lat": 48.7439502,
+    "lon": 2.2896586
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7469278,
+    "lon": 2.2951889
+  },
+  {
+    "name": "Boucherie des écoles",
+    "type": "butcher",
+    "lat": 48.7451828,
+    "lon": 2.2948575
+  },
+  {
+    "name": "Optical Center",
+    "type": "optician",
+    "lat": 48.7572454,
+    "lon": 2.3067019
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7405556,
+    "lon": 2.2792878
+  },
+  {
+    "name": "Emploi Vallée Sud - Grand Paris",
+    "type": NaN,
+    "lat": 48.7554985,
+    "lon": 2.3060831
+  },
+  {
+    "name": "Tabac Cika",
+    "type": "tobacco",
+    "lat": 48.7537816,
+    "lon": 2.3050162
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7599867,
+    "lon": 2.3073795
+  },
+  {
+    "name": "Collomé Frères",
+    "type": NaN,
+    "lat": 48.7618744,
+    "lon": 2.3051601
+  },
+  {
+    "name": "GMF",
+    "type": NaN,
+    "lat": 48.7570675,
+    "lon": 2.3066194
+  },
+  {
+    "name": "Au Sac Chic",
+    "type": "leather",
+    "lat": 48.7537446,
+    "lon": 2.3050085
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7568219,
+    "lon": 2.3079185
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7475632,
+    "lon": 2.293567
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7476951,
+    "lon": 2.293665
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7457976,
+    "lon": 2.2886118
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7327756,
+    "lon": 2.3125499
+  },
+  {
+    "name": "Mosaic Parc Antony",
+    "type": NaN,
+    "lat": 48.731881,
+    "lon": 2.3124601
+  },
+  {
+    "name": "Mosaic Parc Antony",
+    "type": NaN,
+    "lat": 48.7327553,
+    "lon": 2.3139082
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7329618,
+    "lon": 2.3151191
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7405445,
+    "lon": 2.3153767
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7599679,
+    "lon": 2.2965706
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600143,
+    "lon": 2.2920438
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7596167,
+    "lon": 2.2966648
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7603877,
+    "lon": 2.2970725
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7594048,
+    "lon": 2.2969547
+  },
+  {
+    "name": "AN Renaissance 10",
+    "type": NaN,
+    "lat": 48.7597994,
+    "lon": 2.2963196
+  },
+  {
+    "name": "Le Moulin à Pain",
+    "type": "bakery",
+    "lat": 48.7436236,
+    "lon": 2.2888841
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7436351,
+    "lon": 2.289113
+  },
+  {
+    "name": "Plan Du Réseau Secteur Hauts-de-Seine Sud",
+    "type": NaN,
+    "lat": 48.7551142,
+    "lon": 2.3009399
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7635184,
+    "lon": 2.309819
+  },
+  {
+    "name": "Service du Logement",
+    "type": NaN,
+    "lat": 48.7559959,
+    "lon": 2.3009848
+  },
+  {
+    "name": "Relais Assistants Maternels et Parentaux Une Souris Verte",
+    "type": NaN,
+    "lat": 48.7557932,
+    "lon": 2.3009074
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7554001,
+    "lon": 2.3009435
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7552596,
+    "lon": 2.3008976
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7573545,
+    "lon": 2.2936224
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.752175,
+    "lon": 2.2914059
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546529,
+    "lon": 2.2975316
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7595446,
+    "lon": 2.2902247
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7592171,
+    "lon": 2.2796255
+  },
+  {
+    "name": "La Grange à Vélos",
+    "type": "bicycle",
+    "lat": 48.7594383,
+    "lon": 2.3022339
+  },
+  {
+    "name": "Informations Municipales",
+    "type": NaN,
+    "lat": 48.7355734,
+    "lon": 2.2891125
+  },
+  {
+    "name": "Informations Municipales",
+    "type": NaN,
+    "lat": 48.7372124,
+    "lon": 2.2896174
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7373181,
+    "lon": 2.289884
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7498531,
+    "lon": 2.3047386
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7424713,
+    "lon": 2.3028916
+  },
+  {
+    "name": "Marché",
+    "type": NaN,
+    "lat": 48.7525499,
+    "lon": 2.3025328
+  },
+  {
+    "name": "Parking Centre-Ville",
+    "type": NaN,
+    "lat": 48.7522674,
+    "lon": 2.3030538
+  },
+  {
+    "name": "Lycée Descartes",
+    "type": NaN,
+    "lat": 48.7498769,
+    "lon": 2.3126933
+  },
+  {
+    "name": "Ville d’Antony Crėche Municipale",
+    "type": NaN,
+    "lat": 48.7700002,
+    "lon": 2.3189291
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7698315,
+    "lon": 2.3189512
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7682983,
+    "lon": 2.3167621
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7690452,
+    "lon": 2.3170698
+  },
+  {
+    "name": "Rajastan",
+    "type": NaN,
+    "lat": 48.7353015,
+    "lon": 2.2878538
+  },
+  {
+    "name": "Avis",
+    "type": NaN,
+    "lat": 48.7603702,
+    "lon": 2.30745
+  },
+  {
+    "name": "Hase",
+    "type": "fireplace",
+    "lat": 48.7575564,
+    "lon": 2.3064113
+  },
+  {
+    "name": "Pharmacie du Marché",
+    "type": NaN,
+    "lat": 48.7539117,
+    "lon": 2.3030478
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540043,
+    "lon": 2.30266
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7498464,
+    "lon": 2.3047786
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7521065,
+    "lon": 2.3079322
+  },
+  {
+    "name": "Billards Passion",
+    "type": NaN,
+    "lat": 48.7305501,
+    "lon": 2.3046355
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544284,
+    "lon": 2.300591
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754412,
+    "lon": 2.3006629
+  },
+  {
+    "name": "Espace plongée du centre aquatique Pajeaud",
+    "type": NaN,
+    "lat": 48.7437996,
+    "lon": 2.2865767
+  },
+  {
+    "name": "Laforêt",
+    "type": NaN,
+    "lat": 48.751967,
+    "lon": 2.3043894
+  },
+  {
+    "name": "Le Capitole d’Antony",
+    "type": NaN,
+    "lat": 48.7392451,
+    "lon": 2.2993727
+  },
+  {
+    "name": "Au Fil de Mes Idées",
+    "type": NaN,
+    "lat": 48.7412614,
+    "lon": 2.3027962
+  },
+  {
+    "name": "Affichage Associatif et d’Opinion",
+    "type": NaN,
+    "lat": 48.7371455,
+    "lon": 2.3020512
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7371392,
+    "lon": 2.3020012
+  },
+  {
+    "name": "P'tit Choux",
+    "type": "greengrocer",
+    "lat": 48.7534921,
+    "lon": 2.3052339
+  },
+  {
+    "name": "Lissac",
+    "type": "optician",
+    "lat": 48.7536444,
+    "lon": 2.3052309
+  },
+  {
+    "name": "igo stores",
+    "type": "e-cigarette",
+    "lat": 48.740769,
+    "lon": 2.2981996
+  },
+  {
+    "name": "Fleurs d'Amour",
+    "type": "florist",
+    "lat": 48.7407965,
+    "lon": 2.2981837
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481445,
+    "lon": 2.2945069
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7501173,
+    "lon": 2.299959
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542115,
+    "lon": 2.3012733
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7505908,
+    "lon": 2.305726
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7631924,
+    "lon": 2.3076503
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539005,
+    "lon": 2.3000378
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7562039,
+    "lon": 2.3044436
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.756107,
+    "lon": 2.3049341
+  },
+  {
+    "name": "Chocolat & cie",
+    "type": "chocolate",
+    "lat": 48.7555072,
+    "lon": 2.3056808
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7561554,
+    "lon": 2.3046895
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7563223,
+    "lon": 2.3038421
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.756361,
+    "lon": 2.3036423
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7562935,
+    "lon": 2.3039593
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7561672,
+    "lon": 2.3046318
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.756059,
+    "lon": 2.3051787
+  },
+  {
+    "name": "Franck Provost",
+    "type": "hairdresser",
+    "lat": 48.7539085,
+    "lon": 2.3022495
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7561485,
+    "lon": 2.3018229
+  },
+  {
+    "name": "L'Aigle d'Arménie",
+    "type": NaN,
+    "lat": 48.7635181,
+    "lon": 2.2994125
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7648103,
+    "lon": 2.2990517
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7651255,
+    "lon": 2.2989389
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7656596,
+    "lon": 2.2987343
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7661465,
+    "lon": 2.2985447
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7653484,
+    "lon": 2.2988484
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7664192,
+    "lon": 2.2984465
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7671237,
+    "lon": 2.2986973
+  },
+  {
+    "name": "Le Sac de Graines",
+    "type": "convenience",
+    "lat": 48.7528379,
+    "lon": 2.2967912
+  },
+  {
+    "name": "Jacques B",
+    "type": "jewelry",
+    "lat": 48.7541055,
+    "lon": 2.3021051
+  },
+  {
+    "name": "McDonald's",
+    "type": NaN,
+    "lat": 48.7541135,
+    "lon": 2.3012119
+  },
+  {
+    "name": "Or & Diamant",
+    "type": "jewelry",
+    "lat": 48.7542886,
+    "lon": 2.3012173
+  },
+  {
+    "name": "Parashop",
+    "type": "chemist",
+    "lat": 48.7542187,
+    "lon": 2.3015378
+  },
+  {
+    "name": "Darjeeling",
+    "type": "clothes",
+    "lat": 48.7541984,
+    "lon": 2.301641
+  },
+  {
+    "name": "Le Comptoir d'Ernest",
+    "type": "convenience",
+    "lat": 48.7541374,
+    "lon": 2.3019361
+  },
+  {
+    "name": "Crédit du Nord",
+    "type": NaN,
+    "lat": 48.7541506,
+    "lon": 2.3018663
+  },
+  {
+    "name": "VietFoodAntony",
+    "type": NaN,
+    "lat": 48.7490822,
+    "lon": 2.3065455
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7443292,
+    "lon": 2.2906454
+  },
+  {
+    "name": "Heller coiffure",
+    "type": "hairdresser",
+    "lat": 48.7443575,
+    "lon": 2.2907151
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7634242,
+    "lon": 2.2994887
+  },
+  {
+    "name": "Club Équestre",
+    "type": NaN,
+    "lat": 48.7467181,
+    "lon": 2.2873413
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7656389,
+    "lon": 2.3032276
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7652415,
+    "lon": 2.3009094
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7656534,
+    "lon": 2.3033252
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7656543,
+    "lon": 2.3033536
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7642164,
+    "lon": 2.3094698
+  },
+  {
+    "name": "Le Ballotin des Créateurs",
+    "type": "interior_decoration",
+    "lat": 48.7565092,
+    "lon": 2.306049
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7608021,
+    "lon": 2.2973629
+  },
+  {
+    "name": "Peintures de Paris",
+    "type": "paint",
+    "lat": 48.756404,
+    "lon": 2.306011
+  },
+  {
+    "name": "Pharmacie Sechel-Ngono",
+    "type": NaN,
+    "lat": 48.7345093,
+    "lon": 2.2841736
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7608223,
+    "lon": 2.2973147
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7607985,
+    "lon": 2.2973227
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7607728,
+    "lon": 2.2973335
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.760779,
+    "lon": 2.2973697
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7608294,
+    "lon": 2.2973523
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7680992,
+    "lon": 2.3055868
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7685791,
+    "lon": 2.305425
+  },
+  {
+    "name": "Domaine départemental de Sceaux",
+    "type": NaN,
+    "lat": 48.7623527,
+    "lon": 2.2943517
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7618906,
+    "lon": 2.2943116
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622272,
+    "lon": 2.2944524
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7617079,
+    "lon": 2.2944319
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7634136,
+    "lon": 2.3094491
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7619924,
+    "lon": 2.3079832
+  },
+  {
+    "name": "Jed-Dis Autoservice",
+    "type": "car_repair",
+    "lat": 48.7344041,
+    "lon": 2.2837213
+  },
+  {
+    "name": "Renault",
+    "type": "car_repair",
+    "lat": 48.7334435,
+    "lon": 2.2807172
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7692224,
+    "lon": 2.3159835
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669989,
+    "lon": 2.3152077
+  },
+  {
+    "name": "Point Info Médiation Multi-Services Relais Poste",
+    "type": NaN,
+    "lat": 48.7390503,
+    "lon": 2.2896389
+  },
+  {
+    "name": "Relais La Poste",
+    "type": NaN,
+    "lat": 48.7697409,
+    "lon": 2.3161613
+  },
+  {
+    "name": "La Cantine des Baconnets",
+    "type": "tobacco",
+    "lat": 48.7390299,
+    "lon": 2.2899009
+  },
+  {
+    "name": "Boucherie Assirem",
+    "type": "butcher",
+    "lat": 48.7389909,
+    "lon": 2.2893959
+  },
+  {
+    "name": "Los Nanos",
+    "type": NaN,
+    "lat": 48.7368176,
+    "lon": 2.2839967
+  },
+  {
+    "name": "Barber Shop",
+    "type": "hairdresser",
+    "lat": 48.7368478,
+    "lon": 2.2841276
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.736653,
+    "lon": 2.2840976
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481829,
+    "lon": 2.2944921
+  },
+  {
+    "name": "Bella 37",
+    "type": "beauty",
+    "lat": 48.7704128,
+    "lon": 2.3113657
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7537685,
+    "lon": 2.3031916
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7503334,
+    "lon": 2.3042584
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543175,
+    "lon": 2.3054635
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7550964,
+    "lon": 2.305767
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7550763,
+    "lon": 2.3056212
+  },
+  {
+    "name": "Centre ACMS Antony",
+    "type": NaN,
+    "lat": 48.7329419,
+    "lon": 2.3142362
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544275,
+    "lon": 2.2958601
+  },
+  {
+    "name": "Groupama",
+    "type": NaN,
+    "lat": 48.7639877,
+    "lon": 2.3099803
+  },
+  {
+    "name": "Le week-end",
+    "type": NaN,
+    "lat": 48.7433401,
+    "lon": 2.2954675
+  },
+  {
+    "name": "Garage de Araujo",
+    "type": "car_repair",
+    "lat": 48.7434865,
+    "lon": 2.2957384
+  },
+  {
+    "name": "Frédérique Aussert",
+    "type": NaN,
+    "lat": 48.7427499,
+    "lon": 2.2941927
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7398856,
+    "lon": 2.3025316
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7596372,
+    "lon": 2.2968855
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7595162,
+    "lon": 2.297059
+  },
+  {
+    "name": "Witekio France",
+    "type": NaN,
+    "lat": 48.7610092,
+    "lon": 2.2991626
+  },
+  {
+    "name": "Boulangerie L’Étoile du Berger",
+    "type": "bakery",
+    "lat": 48.7526819,
+    "lon": 2.3028282
+  },
+  {
+    "name": "Paris - Ventoux",
+    "type": "bicycle",
+    "lat": 48.7523748,
+    "lon": 2.3025619
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532078,
+    "lon": 2.3028327
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7551714,
+    "lon": 2.2800384
+  },
+  {
+    "name": "Marché",
+    "type": NaN,
+    "lat": 48.7528062,
+    "lon": 2.3027245
+  },
+  {
+    "name": "Krys",
+    "type": "optician",
+    "lat": 48.7536183,
+    "lon": 2.3031197
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7533179,
+    "lon": 2.3030135
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7524483,
+    "lon": 2.3024661
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532444,
+    "lon": 2.3029695
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7530914,
+    "lon": 2.3027326
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7531823,
+    "lon": 2.3029292
+  },
+  {
+    "name": "100% Crousti",
+    "type": NaN,
+    "lat": 48.7493187,
+    "lon": 2.3039402
+  },
+  {
+    "name": "Le cercle de la Vap",
+    "type": "e-cigarette",
+    "lat": 48.7493788,
+    "lon": 2.3039424
+  },
+  {
+    "name": "Saveurs et Tapas",
+    "type": NaN,
+    "lat": 48.7491765,
+    "lon": 2.3039159
+  },
+  {
+    "name": "Apollon et Daphné",
+    "type": NaN,
+    "lat": 48.7679335,
+    "lon": 2.3030064
+  },
+  {
+    "name": "Castor et Pollux",
+    "type": NaN,
+    "lat": 48.7677025,
+    "lon": 2.3015942
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7665963,
+    "lon": 2.297228
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7662945,
+    "lon": 2.295849
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7652417,
+    "lon": 2.3038839
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7647193,
+    "lon": 2.3042494
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7660852,
+    "lon": 2.294084
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7487362,
+    "lon": 2.3134093
+  },
+  {
+    "name": "Princia Coiffure",
+    "type": "hairdresser",
+    "lat": 48.7470353,
+    "lon": 2.3034959
+  },
+  {
+    "name": "La Beyrouthine",
+    "type": NaN,
+    "lat": 48.7468089,
+    "lon": 2.3034221
+  },
+  {
+    "name": "Indian Palace",
+    "type": NaN,
+    "lat": 48.7466259,
+    "lon": 2.303917
+  },
+  {
+    "name": "Clinique Vétérinaire",
+    "type": NaN,
+    "lat": 48.7463738,
+    "lon": 2.3038365
+  },
+  {
+    "name": "Roc-Eclerc",
+    "type": "funeral_directors",
+    "lat": 48.7461978,
+    "lon": 2.3033121
+  },
+  {
+    "name": "Domino's",
+    "type": NaN,
+    "lat": 48.745486,
+    "lon": 2.3037359
+  },
+  {
+    "name": "Carglass",
+    "type": "car_repair",
+    "lat": 48.744706,
+    "lon": 2.3029219
+  },
+  {
+    "name": "Aaroki",
+    "type": "convenience",
+    "lat": 48.7410942,
+    "lon": 2.3027991
+  },
+  {
+    "name": "Nicolas",
+    "type": "alcohol",
+    "lat": 48.7532082,
+    "lon": 2.3051166
+  },
+  {
+    "name": "Pharmacie du Cinéma",
+    "type": NaN,
+    "lat": 48.7531393,
+    "lon": 2.3047578
+  },
+  {
+    "name": "Optic 2000",
+    "type": "optician",
+    "lat": 48.7528805,
+    "lon": 2.3050049
+  },
+  {
+    "name": "Pitaya",
+    "type": NaN,
+    "lat": 48.7528988,
+    "lon": 2.3046894
+  },
+  {
+    "name": "Bee Pressing",
+    "type": "dry_cleaning",
+    "lat": 48.7527865,
+    "lon": 2.3046492
+  },
+  {
+    "name": "Studio Sacha",
+    "type": "hairdresser",
+    "lat": 48.7528378,
+    "lon": 2.3046693
+  },
+  {
+    "name": "Cabinet Vétérinaire du Marché",
+    "type": NaN,
+    "lat": 48.7527387,
+    "lon": 2.3046304
+  },
+  {
+    "name": "Saveurs d'Asie",
+    "type": NaN,
+    "lat": 48.7526388,
+    "lon": 2.3045902
+  },
+  {
+    "name": "Aux Fins Délices",
+    "type": "bakery",
+    "lat": 48.7522938,
+    "lon": 2.3044937
+  },
+  {
+    "name": "Pizza Hut",
+    "type": NaN,
+    "lat": 48.751915,
+    "lon": 2.3047239
+  },
+  {
+    "name": "Bosso",
+    "type": "hairdresser",
+    "lat": 48.7518767,
+    "lon": 2.3043633
+  },
+  {
+    "name": "Baesler Fleuriste",
+    "type": "florist",
+    "lat": 48.7517039,
+    "lon": 2.3043229
+  },
+  {
+    "name": "Pho Hao",
+    "type": NaN,
+    "lat": 48.7507201,
+    "lon": 2.304678
+  },
+  {
+    "name": "Oki",
+    "type": NaN,
+    "lat": 48.7505979,
+    "lon": 2.3046696
+  },
+  {
+    "name": "Boucherie du Maréchal Leclerc",
+    "type": "butcher",
+    "lat": 48.7506192,
+    "lon": 2.3042273
+  },
+  {
+    "name": "Six Épis d'Or",
+    "type": "bakery",
+    "lat": 48.7502479,
+    "lon": 2.3041221
+  },
+  {
+    "name": "Le Gourmet",
+    "type": "convenience",
+    "lat": 48.7500029,
+    "lon": 2.3040846
+  },
+  {
+    "name": "Lezzet Grill",
+    "type": NaN,
+    "lat": 48.7494998,
+    "lon": 2.3039813
+  },
+  {
+    "name": "La Nostra",
+    "type": NaN,
+    "lat": 48.7490515,
+    "lon": 2.3038754
+  },
+  {
+    "name": "MMA",
+    "type": NaN,
+    "lat": 48.7479346,
+    "lon": 2.3036487
+  },
+  {
+    "name": "Speedy",
+    "type": "car_repair",
+    "lat": 48.747397,
+    "lon": 2.3040631
+  },
+  {
+    "name": "Alimentation Générale",
+    "type": "convenience",
+    "lat": 48.7472139,
+    "lon": 2.3035374
+  },
+  {
+    "name": "Cabinet Dentaire",
+    "type": NaN,
+    "lat": 48.7372492,
+    "lon": 2.3020914
+  },
+  {
+    "name": "Poissonnerie Les Vikings",
+    "type": "seafood",
+    "lat": 48.7529872,
+    "lon": 2.3037194
+  },
+  {
+    "name": "Le Jardin Secret",
+    "type": NaN,
+    "lat": 48.7546042,
+    "lon": 2.3033461
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7535991,
+    "lon": 2.3032843
+  },
+  {
+    "name": "Fils & Merveilles",
+    "type": "sewing",
+    "lat": 48.7542114,
+    "lon": 2.3031558
+  },
+  {
+    "name": "Marché Librairie",
+    "type": NaN,
+    "lat": 48.753163,
+    "lon": 2.3037314
+  },
+  {
+    "name": "Rosalie",
+    "type": NaN,
+    "lat": 48.75342,
+    "lon": 2.3028246
+  },
+  {
+    "name": "Parking Centre-Ville",
+    "type": NaN,
+    "lat": 48.753475,
+    "lon": 2.3031877
+  },
+  {
+    "name": NaN,
+    "type": "dry_cleaning",
+    "lat": 48.7696993,
+    "lon": 2.3161947
+  },
+  {
+    "name": "Altair Engineering France",
+    "type": NaN,
+    "lat": 48.7612633,
+    "lon": 2.2992397
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7514395,
+    "lon": 2.2822264
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7554797,
+    "lon": 2.2797924
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.755569,
+    "lon": 2.2804952
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7597107,
+    "lon": 2.284036
+  },
+  {
+    "name": "Affichage Associatif",
+    "type": NaN,
+    "lat": 48.7555027,
+    "lon": 2.2802091
+  },
+  {
+    "name": "Gymnase",
+    "type": NaN,
+    "lat": 48.7554015,
+    "lon": 2.2805432
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7551164,
+    "lon": 2.2842972
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.755454,
+    "lon": 2.280004
+  },
+  {
+    "name": "Affichage Associatif",
+    "type": NaN,
+    "lat": 48.7554989,
+    "lon": 2.2796544
+  },
+  {
+    "name": "Ma P’tite Echoppe",
+    "type": "greengrocer",
+    "lat": 48.7413188,
+    "lon": 2.2828921
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7412534,
+    "lon": 2.2830995
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7412463,
+    "lon": 2.2830782
+  },
+  {
+    "name": "Dolcetto",
+    "type": NaN,
+    "lat": 48.7380659,
+    "lon": 2.3021708
+  },
+  {
+    "name": "Jade Lingerie",
+    "type": "erotic",
+    "lat": 48.7393616,
+    "lon": 2.3024364
+  },
+  {
+    "name": "SFDC",
+    "type": NaN,
+    "lat": 48.7405918,
+    "lon": 2.3026671
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7412706,
+    "lon": 2.2830977
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7533384,
+    "lon": 2.3029333
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7512833,
+    "lon": 2.2820108
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7530473,
+    "lon": 2.3028335
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7518723,
+    "lon": 2.2818978
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7516234,
+    "lon": 2.281889
+  },
+  {
+    "name": "Promenade des Vallons de la Bièvre",
+    "type": NaN,
+    "lat": 48.7514257,
+    "lon": 2.2822625
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7516985,
+    "lon": 2.2817688
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7541282,
+    "lon": 2.3033643
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7531105,
+    "lon": 2.3029117
+  },
+  {
+    "name": "Boites à Lire",
+    "type": NaN,
+    "lat": 48.7514755,
+    "lon": 2.2820862
+  },
+  {
+    "name": "Le Temps d’un Rêve",
+    "type": "tea",
+    "lat": 48.7525656,
+    "lon": 2.3026843
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532671,
+    "lon": 2.3028834
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527889,
+    "lon": 2.3027204
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7517904,
+    "lon": 2.2821128
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7549954,
+    "lon": 2.2841735
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7556609,
+    "lon": 2.2841658
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7663822,
+    "lon": 2.2910978
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7664389,
+    "lon": 2.2910797
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7663408,
+    "lon": 2.2907986
+  },
+  {
+    "name": "La Trinita",
+    "type": NaN,
+    "lat": 48.7566509,
+    "lon": 2.2818877
+  },
+  {
+    "name": "Okaïdi",
+    "type": "clothes",
+    "lat": 48.7541686,
+    "lon": 2.3017978
+  },
+  {
+    "name": "Maison Seyssac",
+    "type": "greengrocer",
+    "lat": 48.7537282,
+    "lon": 2.3040224
+  },
+  {
+    "name": "CIC",
+    "type": NaN,
+    "lat": 48.7539667,
+    "lon": 2.3019543
+  },
+  {
+    "name": "Palais des Thés",
+    "type": "tea",
+    "lat": 48.7540715,
+    "lon": 2.301465
+  },
+  {
+    "name": "Groupama",
+    "type": NaN,
+    "lat": 48.7540145,
+    "lon": 2.3017408
+  },
+  {
+    "name": "Foncia",
+    "type": NaN,
+    "lat": 48.7538571,
+    "lon": 2.3025157
+  },
+  {
+    "name": "Jean-Claude Biguine",
+    "type": "hairdresser",
+    "lat": 48.7539962,
+    "lon": 2.3018253
+  },
+  {
+    "name": "La Vie Moins Chère",
+    "type": "interior_decoration",
+    "lat": 48.7540345,
+    "lon": 2.3016436
+  },
+  {
+    "name": "Sneak’Arts",
+    "type": "shoes",
+    "lat": 48.7534863,
+    "lon": 2.304323
+  },
+  {
+    "name": "Du Pareil au Même",
+    "type": "clothes",
+    "lat": 48.7538006,
+    "lon": 2.3027707
+  },
+  {
+    "name": "Natalys",
+    "type": "baby_goods",
+    "lat": 48.7537822,
+    "lon": 2.3028874
+  },
+  {
+    "name": "PFG",
+    "type": "funeral_directors",
+    "lat": 48.7539586,
+    "lon": 2.3028204
+  },
+  {
+    "name": "Célina",
+    "type": "shoes",
+    "lat": 48.7538332,
+    "lon": 2.3026499
+  },
+  {
+    "name": "Les Opticiens Conseil",
+    "type": "optician",
+    "lat": 48.7540499,
+    "lon": 2.3015624
+  },
+  {
+    "name": "Marionnaud",
+    "type": "perfumery",
+    "lat": 48.7538877,
+    "lon": 2.3023572
+  },
+  {
+    "name": "Méga-Lots",
+    "type": "shoes",
+    "lat": 48.7540904,
+    "lon": 2.301372
+  },
+  {
+    "name": "L'Herbier de Provence",
+    "type": "interior_decoration",
+    "lat": 48.7538884,
+    "lon": 2.3031456
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7561369,
+    "lon": 2.3018171
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544729,
+    "lon": 2.300408
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7547586,
+    "lon": 2.300364
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545392,
+    "lon": 2.3009518
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544929,
+    "lon": 2.3009323
+  },
+  {
+    "name": "Empruntis l'agence ANTONY",
+    "type": NaN,
+    "lat": 48.7543363,
+    "lon": 2.3031986
+  },
+  {
+    "name": "Goupiya",
+    "type": "games",
+    "lat": 48.7581363,
+    "lon": 2.3061844
+  },
+  {
+    "name": "Le Salon",
+    "type": "hairdresser",
+    "lat": 48.7545342,
+    "lon": 2.3053438
+  },
+  {
+    "name": "Les Barboristes",
+    "type": "hairdresser",
+    "lat": 48.7540877,
+    "lon": 2.3054299
+  },
+  {
+    "name": "CCF",
+    "type": NaN,
+    "lat": 48.753241,
+    "lon": 2.3055913
+  },
+  {
+    "name": "Picard",
+    "type": "frozen_food",
+    "lat": 48.7532094,
+    "lon": 2.3057423
+  },
+  {
+    "name": "Carré Blanc",
+    "type": "household_linen",
+    "lat": 48.7533874,
+    "lon": 2.3056695
+  },
+  {
+    "name": "Tchip Coiffure",
+    "type": "hairdresser",
+    "lat": 48.7534132,
+    "lon": 2.3055913
+  },
+  {
+    "name": "Au fil des sens",
+    "type": "chocolate",
+    "lat": 48.7531476,
+    "lon": 2.3050963
+  },
+  {
+    "name": "Primo",
+    "type": NaN,
+    "lat": 48.7525755,
+    "lon": 2.3045902
+  },
+  {
+    "name": "Nérolia",
+    "type": "jewelry",
+    "lat": 48.7531944,
+    "lon": 2.3048169
+  },
+  {
+    "name": "Victorio",
+    "type": "clothes",
+    "lat": 48.7529845,
+    "lon": 2.3050391
+  },
+  {
+    "name": "Point Conduite",
+    "type": NaN,
+    "lat": 48.752745,
+    "lon": 2.3049559
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7521421,
+    "lon": 2.3046883
+  },
+  {
+    "name": "Micromania",
+    "type": "video_games",
+    "lat": 48.7518714,
+    "lon": 2.3047127
+  },
+  {
+    "name": "L’Atelier Intermède",
+    "type": "hairdresser",
+    "lat": 48.7518159,
+    "lon": 2.3047021
+  },
+  {
+    "name": "Guinot",
+    "type": "beauty",
+    "lat": 48.7517568,
+    "lon": 2.3046957
+  },
+  {
+    "name": "Pompes Funèbres de France",
+    "type": "funeral_directors",
+    "lat": 48.7516701,
+    "lon": 2.3046908
+  },
+  {
+    "name": "Nuance Lighting",
+    "type": "lighting",
+    "lat": 48.7516324,
+    "lon": 2.3046894
+  },
+  {
+    "name": "Renard Saulnier",
+    "type": NaN,
+    "lat": 48.7515826,
+    "lon": 2.3043354
+  },
+  {
+    "name": "MAAF",
+    "type": NaN,
+    "lat": 48.7539288,
+    "lon": 2.3053517
+  },
+  {
+    "name": "SFR",
+    "type": "mobile_phone",
+    "lat": 48.7540105,
+    "lon": 2.3053954
+  },
+  {
+    "name": "ERA Immobilier L’agence Du Centre",
+    "type": NaN,
+    "lat": 48.754514,
+    "lon": 2.3056013
+  },
+  {
+    "name": "Terre de Running",
+    "type": "sports",
+    "lat": 48.7546399,
+    "lon": 2.3056543
+  },
+  {
+    "name": "Assu 2000",
+    "type": NaN,
+    "lat": 48.7551989,
+    "lon": 2.3058748
+  },
+  {
+    "name": "Pharmacie Bader",
+    "type": NaN,
+    "lat": 48.7551355,
+    "lon": 2.3058511
+  },
+  {
+    "name": "Segnorita",
+    "type": "clothes",
+    "lat": 48.7549102,
+    "lon": 2.3057611
+  },
+  {
+    "name": "Aeternae",
+    "type": "funeral_directors",
+    "lat": 48.7549406,
+    "lon": 2.3057707
+  },
+  {
+    "name": "Point Soleil",
+    "type": "beauty",
+    "lat": 48.7548489,
+    "lon": 2.3057351
+  },
+  {
+    "name": "Nolte Küchen",
+    "type": "kitchen",
+    "lat": 48.7559431,
+    "lon": 2.3061647
+  },
+  {
+    "name": "Banque Populaire",
+    "type": NaN,
+    "lat": 48.7561853,
+    "lon": 2.3062744
+  },
+  {
+    "name": "Shiva",
+    "type": NaN,
+    "lat": 48.7563884,
+    "lon": 2.3063357
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527046,
+    "lon": 2.3072062
+  },
+  {
+    "name": "L'Atelier aux Lunettes",
+    "type": "optician",
+    "lat": 48.7533478,
+    "lon": 2.3058437
+  },
+  {
+    "name": "Turquoise",
+    "type": NaN,
+    "lat": 48.7533179,
+    "lon": 2.305995
+  },
+  {
+    "name": "Alize's Institute",
+    "type": "beauty",
+    "lat": 48.7533087,
+    "lon": 2.3060488
+  },
+  {
+    "name": "STUDIO CONCEPT",
+    "type": "hairdresser",
+    "lat": 48.7531319,
+    "lon": 2.3061833
+  },
+  {
+    "name": "Esthetic Center ANTONY",
+    "type": "beauty",
+    "lat": 48.7531032,
+    "lon": 2.3063224
+  },
+  {
+    "name": "Quick Hair",
+    "type": "hairdresser",
+    "lat": 48.7530879,
+    "lon": 2.3064022
+  },
+  {
+    "name": "Les 400 Coups",
+    "type": "toys",
+    "lat": 48.7530616,
+    "lon": 2.3065302
+  },
+  {
+    "name": "38° Tea",
+    "type": NaN,
+    "lat": 48.7532401,
+    "lon": 2.3054193
+  },
+  {
+    "name": "dock'd co",
+    "type": NaN,
+    "lat": 48.7544232,
+    "lon": 2.2973817
+  },
+  {
+    "name": "Florian Immobilier",
+    "type": NaN,
+    "lat": 48.7541824,
+    "lon": 2.296989
+  },
+  {
+    "name": "Pharmacie de l'Église",
+    "type": NaN,
+    "lat": 48.7541411,
+    "lon": 2.2971131
+  },
+  {
+    "name": "PADAF",
+    "type": NaN,
+    "lat": 48.7371131,
+    "lon": 2.309754
+  },
+  {
+    "name": "Pizza Verona",
+    "type": NaN,
+    "lat": 48.7471418,
+    "lon": 2.3035209
+  },
+  {
+    "name": "Centre Ophtalmologique d'Antony",
+    "type": NaN,
+    "lat": 48.7560745,
+    "lon": 2.3050695
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7382082,
+    "lon": 2.2910842
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7384848,
+    "lon": 2.2911136
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7382774,
+    "lon": 2.2911591
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7383068,
+    "lon": 2.2911423
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7384269,
+    "lon": 2.2911461
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7409361,
+    "lon": 2.2820453
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7564605,
+    "lon": 2.3029097
+  },
+  {
+    "name": "Boîtes à Lire",
+    "type": NaN,
+    "lat": 48.7545168,
+    "lon": 2.300285
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545398,
+    "lon": 2.3002052
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7629443,
+    "lon": 2.29957
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7620962,
+    "lon": 2.2946254
+  },
+  {
+    "name": "La Vie Claire Bio",
+    "type": "supermarket",
+    "lat": 48.752044,
+    "lon": 2.3047295
+  },
+  {
+    "name": "Loulou",
+    "type": NaN,
+    "lat": 48.752983,
+    "lon": 2.3026945
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7524355,
+    "lon": 2.3042145
+  },
+  {
+    "name": "Jean",
+    "type": NaN,
+    "lat": 48.7531858,
+    "lon": 2.3026295
+  },
+  {
+    "name": "Laverie Antony",
+    "type": "laundry",
+    "lat": 48.7589885,
+    "lon": 2.3066481
+  },
+  {
+    "name": "La Maison bleue",
+    "type": NaN,
+    "lat": 48.7580511,
+    "lon": 2.3062296
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770246,
+    "lon": 2.3160863
+  },
+  {
+    "name": "Un Pas En Avant",
+    "type": "shoes",
+    "lat": 48.7532276,
+    "lon": 2.305492
+  },
+  {
+    "name": "Pixou Phone Emergency",
+    "type": "mobile_phone",
+    "lat": 48.7537097,
+    "lon": 2.3052606
+  },
+  {
+    "name": "Cabinet des Dr Ramon et Dr Lahmi",
+    "type": NaN,
+    "lat": 48.7558068,
+    "lon": 2.306127
+  },
+  {
+    "name": "Amplifon",
+    "type": "hearing_aids",
+    "lat": 48.7547127,
+    "lon": 2.3056878
+  },
+  {
+    "name": "Tiziano",
+    "type": "clothes",
+    "lat": 48.7545845,
+    "lon": 2.3053653
+  },
+  {
+    "name": "Audika",
+    "type": "hearing_aids",
+    "lat": 48.7556245,
+    "lon": 2.3057058
+  },
+  {
+    "name": "Studio 33",
+    "type": "hairdresser",
+    "lat": 48.7554549,
+    "lon": 2.3056639
+  },
+  {
+    "name": "PCT Assurances",
+    "type": NaN,
+    "lat": 48.7547456,
+    "lon": 2.30542
+  },
+  {
+    "name": "Les Bains d'Antony",
+    "type": "tiles",
+    "lat": 48.7573319,
+    "lon": 2.3063183
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7572395,
+    "lon": 2.3059046
+  },
+  {
+    "name": "Onela",
+    "type": NaN,
+    "lat": 48.7572078,
+    "lon": 2.3060875
+  },
+  {
+    "name": "Jacques Immobilier",
+    "type": NaN,
+    "lat": 48.7557025,
+    "lon": 2.305733
+  },
+  {
+    "name": "Moto Team 92",
+    "type": NaN,
+    "lat": 48.7562876,
+    "lon": 2.3059787
+  },
+  {
+    "name": "Berval",
+    "type": NaN,
+    "lat": 48.7548629,
+    "lon": 2.3054631
+  },
+  {
+    "name": "Sonor",
+    "type": "hearing_aids",
+    "lat": 48.754483,
+    "lon": 2.3053267
+  },
+  {
+    "name": "Christian Gilles",
+    "type": "hairdresser",
+    "lat": 48.7546809,
+    "lon": 2.3053968
+  },
+  {
+    "name": "Body Minute",
+    "type": "beauty",
+    "lat": 48.7562163,
+    "lon": 2.3059457
+  },
+  {
+    "name": "Barthélemy Opticien",
+    "type": "optician",
+    "lat": 48.755281,
+    "lon": 2.3056103
+  },
+  {
+    "name": "Nestenn",
+    "type": NaN,
+    "lat": 48.7560563,
+    "lon": 2.3058002
+  },
+  {
+    "name": "Guy Hoquet",
+    "type": NaN,
+    "lat": 48.7549927,
+    "lon": 2.3054979
+  },
+  {
+    "name": "PokeShop",
+    "type": NaN,
+    "lat": 48.7561625,
+    "lon": 2.305924
+  },
+  {
+    "name": "Shop Coiffure",
+    "type": "hairdresser_supply",
+    "lat": 48.7549296,
+    "lon": 2.3054863
+  },
+  {
+    "name": "Caplot couverture",
+    "type": NaN,
+    "lat": 48.7487496,
+    "lon": 2.3036918
+  },
+  {
+    "name": "Bistro Valentin",
+    "type": NaN,
+    "lat": 48.7503354,
+    "lon": 2.3041656
+  },
+  {
+    "name": "Citaya Immobilier",
+    "type": NaN,
+    "lat": 48.7510275,
+    "lon": 2.3047382
+  },
+  {
+    "name": "Allianz",
+    "type": NaN,
+    "lat": 48.7505792,
+    "lon": 2.304225
+  },
+  {
+    "name": "Fenêtres Lorenove",
+    "type": NaN,
+    "lat": 48.7485834,
+    "lon": 2.3038278
+  },
+  {
+    "name": "Liveli Crèches Viktor & Sidonie",
+    "type": NaN,
+    "lat": 48.7572585,
+    "lon": 2.3057944
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7579129,
+    "lon": 2.3066273
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7410885,
+    "lon": 2.2825947
+  },
+  {
+    "name": "Collège provisoire Anne Franck",
+    "type": NaN,
+    "lat": 48.7427046,
+    "lon": 2.2823827
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7457611,
+    "lon": 2.289881
+  },
+  {
+    "name": "Ant & Clem",
+    "type": "shoes",
+    "lat": 48.754217,
+    "lon": 2.2968339
+  },
+  {
+    "name": "Office notarial Delecroix-Camurca-Catarino-Deffontaines-Dos Reis, Notaires à Antony - Grand Paris",
+    "type": NaN,
+    "lat": 48.752127,
+    "lon": 2.304443
+  },
+  {
+    "name": "Ongle De La Reine",
+    "type": "beauty",
+    "lat": 48.7544891,
+    "lon": 2.3032695
+  },
+  {
+    "name": "Babioles",
+    "type": "interior_decoration",
+    "lat": 48.7537865,
+    "lon": 2.2970812
+  },
+  {
+    "name": "Studio 12",
+    "type": "hairdresser",
+    "lat": 48.7537426,
+    "lon": 2.2969477
+  },
+  {
+    "name": "Boulangerie Saint Saturnin",
+    "type": "bakery",
+    "lat": 48.7538394,
+    "lon": 2.2969709
+  },
+  {
+    "name": "BM Assurances",
+    "type": NaN,
+    "lat": 48.754051,
+    "lon": 2.2971188
+  },
+  {
+    "name": "Osteria Pietrinella",
+    "type": NaN,
+    "lat": 48.7539424,
+    "lon": 2.296979
+  },
+  {
+    "name": "Florian Gestion",
+    "type": NaN,
+    "lat": 48.75371,
+    "lon": 2.2970818
+  },
+  {
+    "name": "Agence Lucas",
+    "type": NaN,
+    "lat": 48.7539678,
+    "lon": 2.2971053
+  },
+  {
+    "name": "Votre agent",
+    "type": NaN,
+    "lat": 48.7550184,
+    "lon": 2.3053816
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7549599,
+    "lon": 2.3014001
+  },
+  {
+    "name": "Cabinet Des Docteurs Sepher et Sintès - Chirurgiens-dentistes",
+    "type": NaN,
+    "lat": 48.7549389,
+    "lon": 2.3014152
+  },
+  {
+    "name": "Fleurs D’antony",
+    "type": "florist",
+    "lat": 48.7547716,
+    "lon": 2.3011318
+  },
+  {
+    "name": "Groupe Médical du Parc",
+    "type": NaN,
+    "lat": 48.7549635,
+    "lon": 2.3014291
+  },
+  {
+    "name": "Pokawa",
+    "type": NaN,
+    "lat": 48.7545987,
+    "lon": 2.301233
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7367939,
+    "lon": 2.3017708
+  },
+  {
+    "name": "Tenrikyo Europe Centre",
+    "type": NaN,
+    "lat": 48.7622842,
+    "lon": 2.3053445
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.767958,
+    "lon": 2.3013112
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7670663,
+    "lon": 2.3001915
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7623888,
+    "lon": 2.3049792
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7680793,
+    "lon": 2.3012621
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7517143,
+    "lon": 2.2826045
+  },
+  {
+    "name": "Guichet Orlyval (Antony)",
+    "type": "ticket",
+    "lat": 48.7548835,
+    "lon": 2.3010127
+  },
+  {
+    "name": "Petit Bubble",
+    "type": NaN,
+    "lat": 48.769599,
+    "lon": 2.3161459
+  },
+  {
+    "name": "O2",
+    "type": NaN,
+    "lat": 48.7515149,
+    "lon": 2.3040188
+  },
+  {
+    "name": "smoking FREE",
+    "type": "e-cigarette",
+    "lat": 48.7515225,
+    "lon": 2.3039613
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7510155,
+    "lon": 2.3046058
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7508756,
+    "lon": 2.3046238
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7504642,
+    "lon": 2.3046269
+  },
+  {
+    "name": "Or en Cash",
+    "type": "gold_buyer",
+    "lat": 48.7508882,
+    "lon": 2.3042961
+  },
+  {
+    "name": "Antony Optique",
+    "type": "optician",
+    "lat": 48.750824,
+    "lon": 2.30428
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7535515,
+    "lon": 2.3069423
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532582,
+    "lon": 2.30675
+  },
+  {
+    "name": "espace lingerie",
+    "type": "clothes",
+    "lat": 48.7534423,
+    "lon": 2.3054626
+  },
+  {
+    "name": "GIOVĀ",
+    "type": NaN,
+    "lat": 48.7543057,
+    "lon": 2.2972101
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544617,
+    "lon": 2.2990596
+  },
+  {
+    "name": "Babilou",
+    "type": NaN,
+    "lat": 48.7528235,
+    "lon": 2.3082903
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7644902,
+    "lon": 2.2994061
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7653063,
+    "lon": 2.3058002
+  },
+  {
+    "name": "Clafoutis",
+    "type": "deli",
+    "lat": 48.7542626,
+    "lon": 2.3012714
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540309,
+    "lon": 2.3022667
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539639,
+    "lon": 2.3020805
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7524956,
+    "lon": 2.3086311
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.752485,
+    "lon": 2.3086774
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7525714,
+    "lon": 2.3085852
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542071,
+    "lon": 2.3062743
+  },
+  {
+    "name": "Centre Médical",
+    "type": NaN,
+    "lat": 48.7483524,
+    "lon": 2.3004628
+  },
+  {
+    "name": "Teradata France",
+    "type": NaN,
+    "lat": 48.7629725,
+    "lon": 2.3092791
+  },
+  {
+    "name": "Retouche Mercerie",
+    "type": "fabric",
+    "lat": 48.7415344,
+    "lon": 2.2824148
+  },
+  {
+    "name": NaN,
+    "type": "convenience",
+    "lat": 48.7415328,
+    "lon": 2.2825633
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7415623,
+    "lon": 2.282541
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7416867,
+    "lon": 2.2824675
+  },
+  {
+    "name": NaN,
+    "type": "hairdresser",
+    "lat": 48.741478,
+    "lon": 2.2826061
+  },
+  {
+    "name": NaN,
+    "type": "laundry",
+    "lat": 48.7415064,
+    "lon": 2.2824325
+  },
+  {
+    "name": NaN,
+    "type": "butcher",
+    "lat": 48.7414716,
+    "lon": 2.2824509
+  },
+  {
+    "name": "Souk Alchark",
+    "type": "convenience",
+    "lat": 48.741589,
+    "lon": 2.2823297
+  },
+  {
+    "name": "Next House Immobilier",
+    "type": NaN,
+    "lat": 48.7427929,
+    "lon": 2.3025939
+  },
+  {
+    "name": "Les Déménageurs Bretons",
+    "type": NaN,
+    "lat": 48.7352482,
+    "lon": 2.3136906
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7471249,
+    "lon": 2.3124999
+  },
+  {
+    "name": "Saïgon",
+    "type": NaN,
+    "lat": 48.745899,
+    "lon": 2.3140342
+  },
+  {
+    "name": "Conservatoire Darius Milhaud",
+    "type": NaN,
+    "lat": 48.7473572,
+    "lon": 2.313966
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7465727,
+    "lon": 2.316053
+  },
+  {
+    "name": "Club scientifique municipal",
+    "type": NaN,
+    "lat": 48.747305,
+    "lon": 2.3144272
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.746641,
+    "lon": 2.3134815
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7462734,
+    "lon": 2.3145515
+  },
+  {
+    "name": "Circuit de Prévention Routière",
+    "type": NaN,
+    "lat": 48.7473549,
+    "lon": 2.3142046
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7471042,
+    "lon": 2.3156085
+  },
+  {
+    "name": "Cordonnerie - Serrurerie",
+    "type": NaN,
+    "lat": 48.7536559,
+    "lon": 2.304987
+  },
+  {
+    "name": NaN,
+    "type": "convenience",
+    "lat": 48.7613855,
+    "lon": 2.3083587
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.759483,
+    "lon": 2.3075071
+  },
+  {
+    "name": "Abeille Assurances",
+    "type": NaN,
+    "lat": 48.7588995,
+    "lon": 2.307369
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600514,
+    "lon": 2.3053721
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7594432,
+    "lon": 2.3060413
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7574283,
+    "lon": 2.3053841
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7593327,
+    "lon": 2.3035334
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7594697,
+    "lon": 2.3034033
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7594556,
+    "lon": 2.3035093
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7595608,
+    "lon": 2.3034503
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7379868,
+    "lon": 2.2888986
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7376273,
+    "lon": 2.2873692
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7379439,
+    "lon": 2.2887379
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7384221,
+    "lon": 2.290195
+  },
+  {
+    "name": "Affichage Associatif",
+    "type": NaN,
+    "lat": 48.7384294,
+    "lon": 2.2902203
+  },
+  {
+    "name": "Dr NUVOLI-FRON Alexandra",
+    "type": NaN,
+    "lat": 48.748081,
+    "lon": 2.3043477
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.747816,
+    "lon": 2.3036829
+  },
+  {
+    "name": "Consigne Pickup Antony",
+    "type": NaN,
+    "lat": 48.7548104,
+    "lon": 2.3009562
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7547997,
+    "lon": 2.3009503
+  },
+  {
+    "name": "Pause Connect",
+    "type": NaN,
+    "lat": 48.7548104,
+    "lon": 2.3008559
+  },
+  {
+    "name": "Sitis Market",
+    "type": "greengrocer",
+    "lat": 48.7422706,
+    "lon": 2.2974009
+  },
+  {
+    "name": "Boucherie Fontaine Michalon",
+    "type": "butcher",
+    "lat": 48.7427506,
+    "lon": 2.2967414
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7548106,
+    "lon": 2.2947516
+  },
+  {
+    "name": "Manufacture de Cires",
+    "type": NaN,
+    "lat": 48.7549785,
+    "lon": 2.2948771
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7432856,
+    "lon": 2.2871754
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.749873,
+    "lon": 2.3047624
+  },
+  {
+    "name": "Coiffeur d’Antony",
+    "type": "hairdresser",
+    "lat": 48.7584654,
+    "lon": 2.3062185
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622038,
+    "lon": 2.3026257
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7687254,
+    "lon": 2.3167823
+  },
+  {
+    "name": "Groupe Scolaire La Fontaine Maternele et Elémentaire",
+    "type": NaN,
+    "lat": 48.769437,
+    "lon": 2.3176019
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7678943,
+    "lon": 2.3156857
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7385528,
+    "lon": 2.3021144
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7408336,
+    "lon": 2.3027072
+  },
+  {
+    "name": "Parking Vélos Velpeau",
+    "type": NaN,
+    "lat": 48.7556698,
+    "lon": 2.3018684
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7506286,
+    "lon": 2.3018718
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7507032,
+    "lon": 2.3020839
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7506956,
+    "lon": 2.3020629
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7506238,
+    "lon": 2.3018514
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7502376,
+    "lon": 2.3012964
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7502331,
+    "lon": 2.3007497
+  },
+  {
+    "name": "Wall Street English",
+    "type": NaN,
+    "lat": 48.7518237,
+    "lon": 2.3043485
+  },
+  {
+    "name": "Bo THÉ In",
+    "type": "tea",
+    "lat": 48.7517796,
+    "lon": 2.3043378
+  },
+  {
+    "name": "Parking Centre-Ville",
+    "type": NaN,
+    "lat": 48.7531386,
+    "lon": 2.3029096
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7548659,
+    "lon": 2.3035531
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7552992,
+    "lon": 2.3029727
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7553303,
+    "lon": 2.3027209
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7553685,
+    "lon": 2.3018226
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543704,
+    "lon": 2.3008851
+  },
+  {
+    "name": "Atlas Justice - Antony",
+    "type": NaN,
+    "lat": 48.75312,
+    "lon": 2.3050922
+  },
+  {
+    "name": "Pompes Funèbres CHAMBAULT FUNERAIRE - Le Choix Funéraire",
+    "type": "funeral_directors",
+    "lat": 48.7579901,
+    "lon": 2.2923371
+  },
+  {
+    "name": "La Compagnie Des Comptes - LCDC Antony",
+    "type": NaN,
+    "lat": 48.758066,
+    "lon": 2.2922726
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763752,
+    "lon": 2.2995951
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622484,
+    "lon": 2.3005347
+  },
+  {
+    "name": "Ligne T10",
+    "type": NaN,
+    "lat": 48.7627037,
+    "lon": 2.3031349
+  },
+  {
+    "name": "Domaine Départemental de Sceaux",
+    "type": NaN,
+    "lat": 48.7625185,
+    "lon": 2.2996437
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.762247,
+    "lon": 2.3004962
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622282,
+    "lon": 2.3001859
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622281,
+    "lon": 2.3002004
+  },
+  {
+    "name": "Ligne T10",
+    "type": NaN,
+    "lat": 48.762845,
+    "lon": 2.3033832
+  },
+  {
+    "name": "Ligne T10",
+    "type": NaN,
+    "lat": 48.762754,
+    "lon": 2.3033683
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622284,
+    "lon": 2.3002158
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622479,
+    "lon": 2.3005154
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7627566,
+    "lon": 2.3033832
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7627743,
+    "lon": 2.3031006
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7670935,
+    "lon": 2.2979598
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7669123,
+    "lon": 2.2967863
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7666665,
+    "lon": 2.2940478
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7667319,
+    "lon": 2.2937313
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.766884,
+    "lon": 2.2934765
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7620905,
+    "lon": 2.3021554
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7621656,
+    "lon": 2.302335
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7658585,
+    "lon": 2.2936057
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7651594,
+    "lon": 2.2955656
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7652699,
+    "lon": 2.2945564
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7660774,
+    "lon": 2.292275
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7663824,
+    "lon": 2.2913995
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7640996,
+    "lon": 2.2978874
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7649864,
+    "lon": 2.2953677
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624992,
+    "lon": 2.2981544
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7655412,
+    "lon": 2.2937855
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7658094,
+    "lon": 2.2930211
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.766364,
+    "lon": 2.2921848
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7647198,
+    "lon": 2.2961345
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.764905,
+    "lon": 2.2963437
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763226,
+    "lon": 2.3047471
+  },
+  {
+    "name": "Institut Moringa",
+    "type": "beauty",
+    "lat": 48.7540391,
+    "lon": 2.2969809
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7549476,
+    "lon": 2.300058
+  },
+  {
+    "name": "La Terrasse",
+    "type": NaN,
+    "lat": 48.7532633,
+    "lon": 2.2964228
+  },
+  {
+    "name": "Nawar",
+    "type": NaN,
+    "lat": 48.7531965,
+    "lon": 2.2966475
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532167,
+    "lon": 2.2969514
+  },
+  {
+    "name": "Maison Paroissiale Sainte-Claire",
+    "type": NaN,
+    "lat": 48.7528648,
+    "lon": 2.2972066
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545421,
+    "lon": 2.2992416
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7529521,
+    "lon": 2.29739
+  },
+  {
+    "name": "L’Atelier Lizabault",
+    "type": "hairdresser",
+    "lat": 48.7528176,
+    "lon": 2.2965189
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542858,
+    "lon": 2.2969882
+  },
+  {
+    "name": "L’Optique en Vue",
+    "type": "optician",
+    "lat": 48.7535288,
+    "lon": 2.2968312
+  },
+  {
+    "name": "Aquarelle",
+    "type": "clothes",
+    "lat": 48.7535772,
+    "lon": 2.2968623
+  },
+  {
+    "name": "Mère & Fille",
+    "type": "clothes",
+    "lat": 48.7539119,
+    "lon": 2.2970976
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7427969,
+    "lon": 2.2966073
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7549633,
+    "lon": 2.2917325
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7577058,
+    "lon": 2.3045438
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7482257,
+    "lon": 2.2948598
+  },
+  {
+    "name": "Secours Populaire Français",
+    "type": NaN,
+    "lat": 48.7425088,
+    "lon": 2.2959823
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7482438,
+    "lon": 2.2948566
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7576817,
+    "lon": 2.3045297
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7591134,
+    "lon": 2.3053768
+  },
+  {
+    "name": "La Fine Bouche",
+    "type": NaN,
+    "lat": 48.7532418,
+    "lon": 2.2965512
+  },
+  {
+    "name": "Brun Houblon",
+    "type": "alcohol",
+    "lat": 48.7530131,
+    "lon": 2.2966082
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7681302,
+    "lon": 2.313697
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7684681,
+    "lon": 2.3114813
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7658879,
+    "lon": 2.3150381
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7678399,
+    "lon": 2.3166329
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.767852,
+    "lon": 2.3166763
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7677937,
+    "lon": 2.3169347
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7678276,
+    "lon": 2.3169592
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7678653,
+    "lon": 2.3169651
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7679886,
+    "lon": 2.3168487
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7697624,
+    "lon": 2.3165325
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7699067,
+    "lon": 2.3165927
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7694427,
+    "lon": 2.3178925
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.769259,
+    "lon": 2.3182827
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7699278,
+    "lon": 2.3152671
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7702687,
+    "lon": 2.3149204
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7701152,
+    "lon": 2.3153594
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770283,
+    "lon": 2.3141827
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770035,
+    "lon": 2.3141605
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7705087,
+    "lon": 2.3132148
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7702628,
+    "lon": 2.3126313
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7702964,
+    "lon": 2.3126252
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7707813,
+    "lon": 2.3123203
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.769472,
+    "lon": 2.3160404
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7647412,
+    "lon": 2.3141633
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7647738,
+    "lon": 2.3141037
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7637647,
+    "lon": 2.3145608
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763804,
+    "lon": 2.3145794
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7636587,
+    "lon": 2.3143223
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7636432,
+    "lon": 2.3144036
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7643902,
+    "lon": 2.3146631
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7643759,
+    "lon": 2.3147856
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7640808,
+    "lon": 2.3134163
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7649964,
+    "lon": 2.314886
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7649415,
+    "lon": 2.3147927
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.764421,
+    "lon": 2.3010135
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7646945,
+    "lon": 2.30093
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76688,
+    "lon": 2.30111
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76708,
+    "lon": 2.3011
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763722,
+    "lon": 2.3012646
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7640013,
+    "lon": 2.301164
+  },
+  {
+    "name": "Mangia",
+    "type": NaN,
+    "lat": 48.7637545,
+    "lon": 2.3099376
+  },
+  {
+    "name": "Parking Vélos IDFM",
+    "type": NaN,
+    "lat": 48.7625299,
+    "lon": 2.3041427
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753399,
+    "lon": 2.3086248
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753385,
+    "lon": 2.3086143
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7535511,
+    "lon": 2.3090194
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7536722,
+    "lon": 2.3089839
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753599,
+    "lon": 2.3089503
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538594,
+    "lon": 2.3090116
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540824,
+    "lon": 2.3087941
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754148,
+    "lon": 2.3088774
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544423,
+    "lon": 2.3070387
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544098,
+    "lon": 2.3070123
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544516,
+    "lon": 2.3071338
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542309,
+    "lon": 2.3066453
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540687,
+    "lon": 2.3067917
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539949,
+    "lon": 2.307071
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539527,
+    "lon": 2.3071913
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542388,
+    "lon": 2.3065142
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540727,
+    "lon": 2.3067595
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7498128,
+    "lon": 2.3050332
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.749723,
+    "lon": 2.3051135
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7499694,
+    "lon": 2.3053968
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7499332,
+    "lon": 2.3053656
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7535964,
+    "lon": 2.3089188
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538576,
+    "lon": 2.3089106
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540454,
+    "lon": 2.3087462
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7541386,
+    "lon": 2.308829
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543265,
+    "lon": 2.3071172
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754169,
+    "lon": 2.3066812
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540321,
+    "lon": 2.3069419
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542373,
+    "lon": 2.3062118
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542718,
+    "lon": 2.3060813
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542912,
+    "lon": 2.3059139
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542327,
+    "lon": 2.3061436
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7497341,
+    "lon": 2.305046
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7498458,
+    "lon": 2.3051637
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7500073,
+    "lon": 2.3054268
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7535949,
+    "lon": 2.3088948
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539006,
+    "lon": 2.3091587
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539651,
+    "lon": 2.3092036
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539984,
+    "lon": 2.3092216
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539793,
+    "lon": 2.3087414
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540897,
+    "lon": 2.3087446
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540109,
+    "lon": 2.3070146
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7541959,
+    "lon": 2.3063423
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543965,
+    "lon": 2.3057096
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7497819,
+    "lon": 2.3052418
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753871,
+    "lon": 2.3091185
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538551,
+    "lon": 2.309071
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540122,
+    "lon": 2.3087323
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540924,
+    "lon": 2.3088441
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7543624,
+    "lon": 2.3071997
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544288,
+    "lon": 2.3055742
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7497496,
+    "lon": 2.3052248
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7500186,
+    "lon": 2.3053439
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7499946,
+    "lon": 2.3054594
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7534595,
+    "lon": 2.2967922
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600186,
+    "lon": 2.2966426
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7613655,
+    "lon": 2.2995128
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7612833,
+    "lon": 2.2994692
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7612628,
+    "lon": 2.2994841
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7597113,
+    "lon": 2.2965047
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7626312,
+    "lon": 2.304054
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7631789,
+    "lon": 2.3044874
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7626279,
+    "lon": 2.3040408
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76313,
+    "lon": 2.3042842
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7625256,
+    "lon": 2.3036282
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7625485,
+    "lon": 2.3042089
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7625171,
+    "lon": 2.3036013
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624787,
+    "lon": 2.3037822
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7626233,
+    "lon": 2.3040258
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7631094,
+    "lon": 2.3042044
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624874,
+    "lon": 2.3037942
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7631725,
+    "lon": 2.3044406
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7631199,
+    "lon": 2.3042401
+  },
+  {
+    "name": "RER B",
+    "type": NaN,
+    "lat": 48.7625944,
+    "lon": 2.3044588
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7625194,
+    "lon": 2.3040726
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7633352,
+    "lon": 2.3053613
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7633198,
+    "lon": 2.3052708
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7400176,
+    "lon": 2.2906114
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.750095,
+    "lon": 2.3047379
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7481099,
+    "lon": 2.3119964
+  },
+  {
+    "name": "Guichet Transilien",
+    "type": "ticket",
+    "lat": 48.7480889,
+    "lon": 2.3125284
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7589515,
+    "lon": 2.284921
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7637012,
+    "lon": 2.301094
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7639719,
+    "lon": 2.3009954
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.764383,
+    "lon": 2.3008515
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7646608,
+    "lon": 2.3007342
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7679587,
+    "lon": 2.2998273
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7677098,
+    "lon": 2.2996326
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7674112,
+    "lon": 2.2994701
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7500332,
+    "lon": 2.3046634
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7501118,
+    "lon": 2.3048115
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7499569,
+    "lon": 2.3045552
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7500923,
+    "lon": 2.3045813
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7502345,
+    "lon": 2.3046112
+  },
+  {
+    "name": "Prix Market",
+    "type": "convenience",
+    "lat": 48.7398302,
+    "lon": 2.2857287
+  },
+  {
+    "name": "Supérette Antony",
+    "type": "convenience",
+    "lat": 48.7448417,
+    "lon": 2.2943517
+  },
+  {
+    "name": "C2 BTP Intérim",
+    "type": NaN,
+    "lat": 48.7448109,
+    "lon": 2.2942287
+  },
+  {
+    "name": "Cliniques Vétérinaires Associées CVA Antony",
+    "type": NaN,
+    "lat": 48.7459748,
+    "lon": 2.295472
+  },
+  {
+    "name": "Cerise Market",
+    "type": "convenience",
+    "lat": 48.7440076,
+    "lon": 2.2910185
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7569699,
+    "lon": 2.2800567
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.756122,
+    "lon": 2.2830185
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7526926,
+    "lon": 2.3088871
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7526674,
+    "lon": 2.3088631
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7526557,
+    "lon": 2.3088203
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7534174,
+    "lon": 2.3054049
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527422,
+    "lon": 2.3088044
+  },
+  {
+    "name": "Collège Anne Frank",
+    "type": NaN,
+    "lat": 48.7427567,
+    "lon": 2.286343
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527248,
+    "lon": 2.30893
+  },
+  {
+    "name": "Espace Jeunes",
+    "type": NaN,
+    "lat": 48.7554229,
+    "lon": 2.3007939
+  },
+  {
+    "name": "Booge",
+    "type": "sports",
+    "lat": 48.7542094,
+    "lon": 2.2967318
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7547392,
+    "lon": 2.3010316
+  },
+  {
+    "name": "Personnel de la Mairie",
+    "type": NaN,
+    "lat": 48.7534864,
+    "lon": 2.2954037
+  },
+  {
+    "name": "Mairie",
+    "type": NaN,
+    "lat": 48.7535041,
+    "lon": 2.2954143
+  },
+  {
+    "name": "Charlie's market",
+    "type": "greengrocer",
+    "lat": 48.7537446,
+    "lon": 2.3039305
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7553011,
+    "lon": 2.301452
+  },
+  {
+    "name": "Dr Arthur LASNE",
+    "type": NaN,
+    "lat": 48.7540286,
+    "lon": 2.3003307
+  },
+  {
+    "name": "Hotel De Ville",
+    "type": NaN,
+    "lat": 48.7532256,
+    "lon": 2.2960321
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7564426,
+    "lon": 2.281773
+  },
+  {
+    "name": "Primo",
+    "type": NaN,
+    "lat": 48.7543809,
+    "lon": 2.2927661
+  },
+  {
+    "name": "Laforêt",
+    "type": NaN,
+    "lat": 48.7547901,
+    "lon": 2.2973344
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542603,
+    "lon": 2.300314
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7540459,
+    "lon": 2.2942857
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7542898,
+    "lon": 2.3009561
+  },
+  {
+    "name": "AXA",
+    "type": NaN,
+    "lat": 48.7538522,
+    "lon": 2.2970868
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7598002,
+    "lon": 2.2841422
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7599824,
+    "lon": 2.2840758
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.760002,
+    "lon": 2.2842236
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7598959,
+    "lon": 2.2841022
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7598325,
+    "lon": 2.2842505
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600243,
+    "lon": 2.284155
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7599109,
+    "lon": 2.2842234
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7597791,
+    "lon": 2.2842252
+  },
+  {
+    "name": "Revolution Laundry",
+    "type": "laundry",
+    "lat": 48.7555776,
+    "lon": 2.2917467
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7555789,
+    "lon": 2.280733
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7378012,
+    "lon": 2.2913545
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7697568,
+    "lon": 2.3166595
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7698487,
+    "lon": 2.3167433
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7698575,
+    "lon": 2.3166984
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7698619,
+    "lon": 2.3166514
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7697638,
+    "lon": 2.3166179
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7387591,
+    "lon": 2.2891035
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7311226,
+    "lon": 2.3137764
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7323307,
+    "lon": 2.3142636
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7323402,
+    "lon": 2.3142163
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7471204,
+    "lon": 2.295121
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7567937,
+    "lon": 2.2974579
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7507322,
+    "lon": 2.3036451
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.748113,
+    "lon": 2.3129604
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.738249,
+    "lon": 2.2830507
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7590854,
+    "lon": 2.2805975
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7410369,
+    "lon": 2.284598
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7409485,
+    "lon": 2.2841112
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7641204,
+    "lon": 2.3094393
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.744178,
+    "lon": 2.2860306
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7442209,
+    "lon": 2.2859958
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7442956,
+    "lon": 2.2859314
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7443345,
+    "lon": 2.2859019
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7443783,
+    "lon": 2.2858623
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7609304,
+    "lon": 2.293163
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7430407,
+    "lon": 2.286785
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7430887,
+    "lon": 2.2869067
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7376628,
+    "lon": 2.3057385
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7527431,
+    "lon": 2.2833297
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7526244,
+    "lon": 2.2832495
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7407053,
+    "lon": 2.3021759
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7499169,
+    "lon": 2.3129228
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7348202,
+    "lon": 2.3135843
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7347988,
+    "lon": 2.3135444
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7302497,
+    "lon": 2.3123435
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7502465,
+    "lon": 2.3006842
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7502976,
+    "lon": 2.3005511
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7565621,
+    "lon": 2.3089149
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754632,
+    "lon": 2.2861316
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7562666,
+    "lon": 2.2816479
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7562794,
+    "lon": 2.2815976
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7563645,
+    "lon": 2.2816389
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7354112,
+    "lon": 2.2870799
+  },
+  {
+    "name": "Station de Réparation",
+    "type": NaN,
+    "lat": 48.7481075,
+    "lon": 2.2944499
+  },
+  {
+    "name": "Mosquée Hal Houda",
+    "type": NaN,
+    "lat": 48.7313161,
+    "lon": 2.3035247
+  },
+  {
+    "name": "Unity Bar",
+    "type": NaN,
+    "lat": 48.7640423,
+    "lon": 2.3098448
+  },
+  {
+    "name": NaN,
+    "type": "supermarket",
+    "lat": 48.7435811,
+    "lon": 2.2884138
+  },
+  {
+    "name": "La Germaine",
+    "type": NaN,
+    "lat": 48.7411601,
+    "lon": 2.3024129
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7687187,
+    "lon": 2.3096071
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7525754,
+    "lon": 2.3008333
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7507798,
+    "lon": 2.3046462
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7506129,
+    "lon": 2.3046284
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545004,
+    "lon": 2.3006514
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545828,
+    "lon": 2.3009566
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7591868,
+    "lon": 2.3053952
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754453,
+    "lon": 2.3009002
+  },
+  {
+    "name": "Stade Georges Suant",
+    "type": NaN,
+    "lat": 48.7461892,
+    "lon": 2.2843165
+  },
+  {
+    "name": "Stade Georges Suant",
+    "type": NaN,
+    "lat": 48.7461463,
+    "lon": 2.284181
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7497187,
+    "lon": 2.3164762
+  },
+  {
+    "name": "Boîtes à Lire",
+    "type": NaN,
+    "lat": 48.7483065,
+    "lon": 2.3129923
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7707038,
+    "lon": 2.3075802
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7707396,
+    "lon": 2.3109443
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7707865,
+    "lon": 2.3099063
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7491255,
+    "lon": 2.3109887
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7491322,
+    "lon": 2.3109606
+  },
+  {
+    "name": "Affichage Associatif et d'Opinion",
+    "type": NaN,
+    "lat": 48.7491195,
+    "lon": 2.311011
+  },
+  {
+    "name": "Résidence Guillebaud",
+    "type": NaN,
+    "lat": 48.7461795,
+    "lon": 2.3144192
+  },
+  {
+    "name": "Affichage Municipal",
+    "type": NaN,
+    "lat": 48.7463247,
+    "lon": 2.3144242
+  },
+  {
+    "name": "Analog Way",
+    "type": NaN,
+    "lat": 48.7311393,
+    "lon": 2.3131217
+  },
+  {
+    "name": "Pôle Ophtalmologique d’Antony",
+    "type": NaN,
+    "lat": 48.7550728,
+    "lon": 2.2968583
+  },
+  {
+    "name": "Promocash",
+    "type": "trade",
+    "lat": 48.7319201,
+    "lon": 2.3073615
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545946,
+    "lon": 2.3036644
+  },
+  {
+    "name": "Parking Centre-Ville",
+    "type": NaN,
+    "lat": 48.7524253,
+    "lon": 2.3042815
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.754585,
+    "lon": 2.298553
+  },
+  {
+    "name": "Les Petits Chaperons Rouges",
+    "type": NaN,
+    "lat": 48.7548876,
+    "lon": 2.2971403
+  },
+  {
+    "name": "Bien Etre - Aide Et Maintien À Domicile",
+    "type": NaN,
+    "lat": 48.7475222,
+    "lon": 2.3124397
+  },
+  {
+    "name": "Bien Vieillir - Assistance Dépendance Compléa",
+    "type": NaN,
+    "lat": 48.7418035,
+    "lon": 2.302923
+  },
+  {
+    "name": "Assurmath",
+    "type": NaN,
+    "lat": 48.7556943,
+    "lon": 2.2961839
+  },
+  {
+    "name": "Power Plus",
+    "type": "massage",
+    "lat": 48.7554439,
+    "lon": 2.2963172
+  },
+  {
+    "name": "Docteur Brece et Associés",
+    "type": NaN,
+    "lat": 48.7553918,
+    "lon": 2.2963849
+  },
+  {
+    "name": "Maisons RVE",
+    "type": NaN,
+    "lat": 48.7529374,
+    "lon": 2.2967851
+  },
+  {
+    "name": "Entreprise DG",
+    "type": NaN,
+    "lat": 48.7527203,
+    "lon": 2.2965312
+  },
+  {
+    "name": "Arc en Ciel",
+    "type": NaN,
+    "lat": 48.7529959,
+    "lon": 2.2967914
+  },
+  {
+    "name": "Pizza Fiesta",
+    "type": NaN,
+    "lat": 48.7699645,
+    "lon": 2.3162632
+  },
+  {
+    "name": "Laverie automatique Baconnets",
+    "type": "laundry",
+    "lat": 48.7388471,
+    "lon": 2.2890763
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7700857,
+    "lon": 2.3131129
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770128,
+    "lon": 2.3131924
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7699061,
+    "lon": 2.3141969
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7699392,
+    "lon": 2.3142764
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7697209,
+    "lon": 2.3152669
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7697416,
+    "lon": 2.3153478
+  },
+  {
+    "name": "Elvidence",
+    "type": NaN,
+    "lat": 48.7550032,
+    "lon": 2.3058085
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7597576,
+    "lon": 2.2964089
+  },
+  {
+    "name": "L’Ongle d’Antony",
+    "type": "beauty",
+    "lat": 48.7535524,
+    "lon": 2.2966664
+  },
+  {
+    "name": "ISEN Paris - Institut supérieur de l'électronique et du numérique Yncréa",
+    "type": NaN,
+    "lat": 48.7542249,
+    "lon": 2.2980743
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7537948,
+    "lon": 2.296965
+  },
+  {
+    "name": "Burger Addict",
+    "type": NaN,
+    "lat": 48.7641218,
+    "lon": 2.3097084
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7391517,
+    "lon": 2.2889498
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7661821,
+    "lon": 2.2907071
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7662369,
+    "lon": 2.2906541
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7662957,
+    "lon": 2.2906031
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539772,
+    "lon": 2.3024514
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7622029,
+    "lon": 2.2913111
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7536911,
+    "lon": 2.3038996
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538609,
+    "lon": 2.3030168
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7537972,
+    "lon": 2.3033554
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538961,
+    "lon": 2.3026044
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7536228,
+    "lon": 2.3042385
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7539756,
+    "lon": 2.3021985
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7621111,
+    "lon": 2.2912988
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7541877,
+    "lon": 2.301378
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7621759,
+    "lon": 2.2913129
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7512877,
+    "lon": 2.2820398
+  },
+  {
+    "name": "Histoires de chauve-souris",
+    "type": NaN,
+    "lat": 48.7538885,
+    "lon": 2.278275
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538675,
+    "lon": 2.2782721
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7512786,
+    "lon": 2.2820336
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.739258,
+    "lon": 2.305662
+  },
+  {
+    "name": "Amitié des Hommes",
+    "type": NaN,
+    "lat": 48.734927,
+    "lon": 2.3098017
+  },
+  {
+    "name": "Boites à lire",
+    "type": NaN,
+    "lat": 48.7392707,
+    "lon": 2.3056777
+  },
+  {
+    "name": "Kangourou Kids",
+    "type": NaN,
+    "lat": 48.7359957,
+    "lon": 2.3044384
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7676867,
+    "lon": 2.3016323
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7317032,
+    "lon": 2.3131633
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7316919,
+    "lon": 2.3131457
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7317157,
+    "lon": 2.3131843
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7700925,
+    "lon": 2.316397
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7595368,
+    "lon": 2.2846484
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7592674,
+    "lon": 2.2845876
+  },
+  {
+    "name": "Pharmacie Jean Zay",
+    "type": NaN,
+    "lat": 48.7601467,
+    "lon": 2.3003338
+  },
+  {
+    "name": "Crèche Jean Zay",
+    "type": NaN,
+    "lat": 48.7594903,
+    "lon": 2.2993265
+  },
+  {
+    "name": "Franprix",
+    "type": "supermarket",
+    "lat": 48.7597791,
+    "lon": 2.3011481
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600699,
+    "lon": 2.2980413
+  },
+  {
+    "name": "La Maison du Vélo",
+    "type": "bicycle",
+    "lat": 48.7608713,
+    "lon": 2.3009531
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7596161,
+    "lon": 2.2985856
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7600347,
+    "lon": 2.3007582
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7595618,
+    "lon": 2.3000961
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7593219,
+    "lon": 2.299297
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7594409,
+    "lon": 2.2993061
+  },
+  {
+    "name": "Le Village - Secours catholique",
+    "type": NaN,
+    "lat": 48.761632,
+    "lon": 2.302845
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7606545,
+    "lon": 2.3009916
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7598455,
+    "lon": 2.2982579
+  },
+  {
+    "name": "Police municipale",
+    "type": NaN,
+    "lat": 48.7550352,
+    "lon": 2.3006638
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7310894,
+    "lon": 2.3138282
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7568872,
+    "lon": 2.3022304
+  },
+  {
+    "name": "L’imprimoir",
+    "type": "copyshop",
+    "lat": 48.7526865,
+    "lon": 2.2967432
+  },
+  {
+    "name": "Atelier Negre",
+    "type": NaN,
+    "lat": 48.752744,
+    "lon": 2.2967578
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7560035,
+    "lon": 2.3012158
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7564996,
+    "lon": 2.2991554
+  },
+  {
+    "name": "Maison médicale de l’Abbaye",
+    "type": NaN,
+    "lat": 48.7519915,
+    "lon": 2.2979044
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7682805,
+    "lon": 2.3112684
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7555078,
+    "lon": 2.2842315
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7557442,
+    "lon": 2.2845829
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7556763,
+    "lon": 2.2840156
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7556951,
+    "lon": 2.2839516
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7556875,
+    "lon": 2.2839843
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7554922,
+    "lon": 2.2842649
+  },
+  {
+    "name": "La Véloscénie",
+    "type": NaN,
+    "lat": 48.7557314,
+    "lon": 2.2845848
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7308743,
+    "lon": 2.3134775
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7312175,
+    "lon": 2.31308
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7309021,
+    "lon": 2.3135226
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.739782,
+    "lon": 2.2872746
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7398233,
+    "lon": 2.2873962
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.730297,
+    "lon": 2.309668
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7304282,
+    "lon": 2.3099315
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7303037,
+    "lon": 2.3099992
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7303041,
+    "lon": 2.3098198
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7303041,
+    "lon": 2.3099731
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7303048,
+    "lon": 2.3098423
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7301049,
+    "lon": 2.3102577
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7314501,
+    "lon": 2.3132722
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.731631,
+    "lon": 2.3116411
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7316374,
+    "lon": 2.3121715
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7318771,
+    "lon": 2.3121859
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7318349,
+    "lon": 2.3124434
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7314587,
+    "lon": 2.3117668
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7314479,
+    "lon": 2.311827
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7307139,
+    "lon": 2.3108179
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7307376,
+    "lon": 2.3107851
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7308506,
+    "lon": 2.3113658
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7305724,
+    "lon": 2.3130085
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7305874,
+    "lon": 2.3129615
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7305697,
+    "lon": 2.3129342
+  },
+  {
+    "name": "Mosaic Parc Antony",
+    "type": NaN,
+    "lat": 48.7311405,
+    "lon": 2.3140678
+  },
+  {
+    "name": "Mosaic Parc Antony",
+    "type": NaN,
+    "lat": 48.7313617,
+    "lon": 2.3128467
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7310268,
+    "lon": 2.3107553
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7307557,
+    "lon": 2.3113983
+  },
+  {
+    "name": "Foyer Maternel Le Bief, MAPE, AVVEJ",
+    "type": NaN,
+    "lat": 48.750817,
+    "lon": 2.2954721
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7300625,
+    "lon": 2.3103559
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7308996,
+    "lon": 2.3124445
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7529714,
+    "lon": 2.2876324
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7592766,
+    "lon": 2.2973949
+  },
+  {
+    "name": "Maison Savignac Salon de Thé",
+    "type": "pastry",
+    "lat": 48.7604654,
+    "lon": 2.3003309
+  },
+  {
+    "name": "Jean Zay",
+    "type": NaN,
+    "lat": 48.7618229,
+    "lon": 2.3022834
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758786,
+    "lon": 2.2961943
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7593281,
+    "lon": 2.2975058
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7593678,
+    "lon": 2.295559
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7588934,
+    "lon": 2.2968319
+  },
+  {
+    "name": "Midas",
+    "type": "car_repair",
+    "lat": 48.7464613,
+    "lon": 2.3033661
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544586,
+    "lon": 2.2984679
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7545211,
+    "lon": 2.3002893
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7520671,
+    "lon": 2.3088043
+  },
+  {
+    "name": "Cabinet de Santé Kennedy",
+    "type": NaN,
+    "lat": 48.7369564,
+    "lon": 2.2934196
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7480567,
+    "lon": 2.3127721
+  },
+  {
+    "name": "Chauvin-Arnoux Energy",
+    "type": NaN,
+    "lat": 48.7301016,
+    "lon": 2.3106049
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7445492,
+    "lon": 2.2856383
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7550487,
+    "lon": 2.3036734
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7550653,
+    "lon": 2.3036574
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.755363,
+    "lon": 2.2982338
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7532667,
+    "lon": 2.2955293
+  },
+  {
+    "name": "Distri Club Medical",
+    "type": "medical_supply",
+    "lat": 48.7484851,
+    "lon": 2.3037362
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7501493,
+    "lon": 2.2997773
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546411,
+    "lon": 2.2839526
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7460208,
+    "lon": 2.2915867
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7463043,
+    "lon": 2.2866731
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7463623,
+    "lon": 2.29218
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7502172,
+    "lon": 2.2993708
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7461996,
+    "lon": 2.287038
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7457722,
+    "lon": 2.2905401
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7498863,
+    "lon": 2.2976355
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7462601,
+    "lon": 2.2866921
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7629866,
+    "lon": 2.300753
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7629467,
+    "lon": 2.3004723
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7627489,
+    "lon": 2.3043013
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7629622,
+    "lon": 2.3057456
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7624881,
+    "lon": 2.3009169
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7625257,
+    "lon": 2.3009069
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7507382,
+    "lon": 2.3065454
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7469828,
+    "lon": 2.3038192
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7456416,
+    "lon": 2.2957669
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7443695,
+    "lon": 2.2971375
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7409019,
+    "lon": 2.3037234
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7483196,
+    "lon": 2.3139531
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.748298,
+    "lon": 2.313982
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7512232,
+    "lon": 2.3046465
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7596275,
+    "lon": 2.2838842
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7587235,
+    "lon": 2.2912482
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7579582,
+    "lon": 2.2973043
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7555618,
+    "lon": 2.2912581
+  },
+  {
+    "name": "Pizza Service",
+    "type": NaN,
+    "lat": 48.7473957,
+    "lon": 2.3035727
+  },
+  {
+    "name": "Diagonale",
+    "type": "convenience",
+    "lat": 48.7368473,
+    "lon": 2.2841318
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7623186,
+    "lon": 2.3034259
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7623577,
+    "lon": 2.3034065
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7538835,
+    "lon": 2.3029163
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7608119,
+    "lon": 2.3011199
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7615258,
+    "lon": 2.3008875
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7613101,
+    "lon": 2.3001307
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74305379162694,
+    "lon": 2.287090326936121
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75038531730411,
+    "lon": 2.301211191726148
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75328760387001,
+    "lon": 2.298433647903427
+  },
+  {
+    "name": "Fontaine de la Croix de Berny",
+    "type": NaN,
+    "lat": 48.76363820619116,
+    "lon": 2.3090226264795346
+  },
+  {
+    "name": "Institution Sainte-Marie La Croix",
+    "type": NaN,
+    "lat": 48.75389464528306,
+    "lon": 2.298819962149964
+  },
+  {
+    "name": "École Sainte-Marie",
+    "type": NaN,
+    "lat": 48.75328435383216,
+    "lon": 2.3019003330246988
+  },
+  {
+    "name": "École élémentaire Paul Bert",
+    "type": NaN,
+    "lat": 48.745551360959254,
+    "lon": 2.296349232823991
+  },
+  {
+    "name": "Collège François Furet",
+    "type": NaN,
+    "lat": 48.75583457359863,
+    "lon": 2.297401390354517
+  },
+  {
+    "name": "Parking Rabelais / J. Moulin",
+    "type": NaN,
+    "lat": 48.75255634264456,
+    "lon": 2.307761046252433
+  },
+  {
+    "name": "Collège Anne Frank",
+    "type": NaN,
+    "lat": 48.74305311827253,
+    "lon": 2.2858820442675314
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75554090694563,
+    "lon": 2.2918200629410466
+  },
+  {
+    "name": "Sushi Goo",
+    "type": NaN,
+    "lat": 48.77013555549883,
+    "lon": 2.316048626939894
+  },
+  {
+    "name": "Groupe scolaire des Rabats",
+    "type": NaN,
+    "lat": 48.73893563854539,
+    "lon": 2.3070508537624637
+  },
+  {
+    "name": "Collège et Lycée Descartes",
+    "type": NaN,
+    "lat": 48.7499504659665,
+    "lon": 2.313669947145521
+  },
+  {
+    "name": "Collège Ozar Hatorah (privé)",
+    "type": NaN,
+    "lat": 48.759574302825165,
+    "lon": 2.2861827011660067
+  },
+  {
+    "name": "Chapelle Sainte-Odile",
+    "type": NaN,
+    "lat": 48.76219408077126,
+    "lon": 2.3060639955959816
+  },
+  {
+    "name": "Église Saint-Saturnin",
+    "type": NaN,
+    "lat": 48.75317635171594,
+    "lon": 2.2973923836522046
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76974102979216,
+    "lon": 2.3170607771788068
+  },
+  {
+    "name": "Église Saint-François-d'Assise",
+    "type": NaN,
+    "lat": 48.76816306859243,
+    "lon": 2.311598590951843
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76198033421812,
+    "lon": 2.3042866424811286
+  },
+  {
+    "name": "Église Baptiste d’Antony",
+    "type": NaN,
+    "lat": 48.761323395508434,
+    "lon": 2.307583501393755
+  },
+  {
+    "name": "Sous-Préfecture d'Antony",
+    "type": NaN,
+    "lat": 48.76118964285613,
+    "lon": 2.300339651762122
+  },
+  {
+    "name": "Florian-Carnot",
+    "type": NaN,
+    "lat": 48.75933386591329,
+    "lon": 2.307600767962429
+  },
+  {
+    "name": "La Chartraine",
+    "type": NaN,
+    "lat": 48.75818609793666,
+    "lon": 2.298062748688322
+  },
+  {
+    "name": "Centre de Lavage",
+    "type": NaN,
+    "lat": 48.73552539588129,
+    "lon": 2.288649641232145
+  },
+  {
+    "name": "École élémentaire publique Jules Ferry",
+    "type": NaN,
+    "lat": 48.74875472286822,
+    "lon": 2.308050201375389
+  },
+  {
+    "name": "Centre municipal de loisirs du parc Heller",
+    "type": NaN,
+    "lat": 48.74784638565524,
+    "lon": 2.294371355232798
+  },
+  {
+    "name": "Franprix",
+    "type": "convenience",
+    "lat": 48.74615489583088,
+    "lon": 2.2971048275768693
+  },
+  {
+    "name": "Synagogue",
+    "type": NaN,
+    "lat": 48.75476632539142,
+    "lon": 2.3077313329509743
+  },
+  {
+    "name": "Esso Express",
+    "type": NaN,
+    "lat": 48.75280809917165,
+    "lon": 2.3073252167688985
+  },
+  {
+    "name": "Intermarché",
+    "type": "supermarket",
+    "lat": 48.75574073223388,
+    "lon": 2.291861182661334
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75493074329262,
+    "lon": 2.29139609430892
+  },
+  {
+    "name": "Centre Maternel Saint-Raphaël",
+    "type": NaN,
+    "lat": 48.75474361296865,
+    "lon": 2.2953427697157847
+  },
+  {
+    "name": "Hôtel de ville d'Antony",
+    "type": NaN,
+    "lat": 48.75371370277035,
+    "lon": 2.2956309074084644
+  },
+  {
+    "name": "Réunion chrétienne d’Antony",
+    "type": NaN,
+    "lat": 48.758802714285764,
+    "lon": 2.277844179537463
+  },
+  {
+    "name": "Le Sélect",
+    "type": NaN,
+    "lat": 48.753081521360635,
+    "lon": 2.3043332816715334
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.761545018438866,
+    "lon": 2.300418122208082
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74719490166017,
+    "lon": 2.315664402015135
+  },
+  {
+    "name": "LCL",
+    "type": NaN,
+    "lat": 48.75129623914138,
+    "lon": 2.304265071089133
+  },
+  {
+    "name": "Conservatoire Darius Milhaud",
+    "type": NaN,
+    "lat": 48.744536474267214,
+    "lon": 2.3027665799142323
+  },
+  {
+    "name": "Pharmacie des Rabats",
+    "type": NaN,
+    "lat": 48.740866673121346,
+    "lon": 2.313313505301256
+  },
+  {
+    "name": "Auchan Supermarché",
+    "type": "supermarket",
+    "lat": 48.74021894400503,
+    "lon": 2.314159308791625
+  },
+  {
+    "name": "Panda 2 Roues",
+    "type": "motorcycle_repair",
+    "lat": 48.74048725894799,
+    "lon": 2.3159973837481385
+  },
+  {
+    "name": "Raboni",
+    "type": "doityourself",
+    "lat": 48.74061663101892,
+    "lon": 2.3013357033007247
+  },
+  {
+    "name": "Église Saint-Maxime",
+    "type": NaN,
+    "lat": 48.74088545032625,
+    "lon": 2.304017791264818
+  },
+  {
+    "name": "Association Saint-Raphaël",
+    "type": NaN,
+    "lat": 48.75443305525,
+    "lon": 2.2966731365153366
+  },
+  {
+    "name": "Pharmacie des Sources",
+    "type": NaN,
+    "lat": 48.75126518713495,
+    "lon": 2.29002909146471
+  },
+  {
+    "name": "Chapelle Sainte-Jeanne de Chantal",
+    "type": NaN,
+    "lat": 48.73989883965177,
+    "lon": 2.28153242573082
+  },
+  {
+    "name": "Vera Cruz",
+    "type": NaN,
+    "lat": 48.73998741170162,
+    "lon": 2.300613422609586
+  },
+  {
+    "name": "Optique 92",
+    "type": "optician",
+    "lat": 48.73930394553508,
+    "lon": 2.2995027679374136
+  },
+  {
+    "name": "Mister Sushi",
+    "type": NaN,
+    "lat": 48.739399374028395,
+    "lon": 2.2996415560129138
+  },
+  {
+    "name": "El Asr",
+    "type": NaN,
+    "lat": 48.73826246481066,
+    "lon": 2.28769137863042
+  },
+  {
+    "name": "Crèches Farandole et Arc-en-Ciel",
+    "type": NaN,
+    "lat": 48.73863704145519,
+    "lon": 2.289743026732985
+  },
+  {
+    "name": "Église Saint-Jean Porte Latine",
+    "type": NaN,
+    "lat": 48.738879671013294,
+    "lon": 2.2907194938080266
+  },
+  {
+    "name": "INRAE",
+    "type": NaN,
+    "lat": 48.74816593912702,
+    "lon": 2.317589425027703
+  },
+  {
+    "name": "Parking Bas",
+    "type": NaN,
+    "lat": 48.76193874257892,
+    "lon": 2.2974798320328165
+  },
+  {
+    "name": "École élémentaire du Noyer Doré",
+    "type": NaN,
+    "lat": 48.73548182330881,
+    "lon": 2.2803230897806004
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74301860761464,
+    "lon": 2.282716015636939
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74226725000001,
+    "lon": 2.283444300000002
+  },
+  {
+    "name": "Parvis du Breuil",
+    "type": NaN,
+    "lat": 48.741611750000004,
+    "lon": 2.2810863500000003
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74126935028203,
+    "lon": 2.280922467057096
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74210375069886,
+    "lon": 2.2839337844386782
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.739929958889,
+    "lon": 2.2873745560466596
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7412812404828,
+    "lon": 2.282224790046773
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73986814721813,
+    "lon": 2.2864930240538484
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74149331442636,
+    "lon": 2.2827573398340233
+  },
+  {
+    "name": "Pharmacie Kennedy",
+    "type": NaN,
+    "lat": 48.73839004762536,
+    "lon": 2.2972010115888475
+  },
+  {
+    "name": "Croix-Rouge française - Unité locale d'Antony",
+    "type": NaN,
+    "lat": 48.73545561257639,
+    "lon": 2.3069293808375178
+  },
+  {
+    "name": "Collège La Fontaine",
+    "type": NaN,
+    "lat": 48.76962821659935,
+    "lon": 2.3197798927982816
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.752420092903456,
+    "lon": 2.308901774602531
+  },
+  {
+    "name": "École Nouvelle d'Antony",
+    "type": NaN,
+    "lat": 48.770456503001206,
+    "lon": 2.309130226100233
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.742833782402855,
+    "lon": 2.296052828554554
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75523215117882,
+    "lon": 2.3019694921545217
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75971744329271,
+    "lon": 2.30383990841845
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75811479633224,
+    "lon": 2.305986821737483
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75725672499301,
+    "lon": 2.3033797301552177
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75695679492628,
+    "lon": 2.3049524969956026
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75743199080374,
+    "lon": 2.302602509652494
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7564663554252,
+    "lon": 2.3018830037884546
+  },
+  {
+    "name": "P Parc de Sceaux",
+    "type": NaN,
+    "lat": 48.76538216067421,
+    "lon": 2.3064757501292372
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73942893754033,
+    "lon": 2.287553734386095
+  },
+  {
+    "name": "Groupe Scolaire Anatole France",
+    "type": NaN,
+    "lat": 48.737461169566195,
+    "lon": 2.289467356043097
+  },
+  {
+    "name": "Médiathèque Arthur Rimbaud",
+    "type": NaN,
+    "lat": 48.73911020214639,
+    "lon": 2.2884535188072457
+  },
+  {
+    "name": "Total",
+    "type": "convenience;gas",
+    "lat": 48.737647610672695,
+    "lon": 2.2949666147942325
+  },
+  {
+    "name": "Hôpital Psychiatrique Erasme",
+    "type": NaN,
+    "lat": 48.74565903929771,
+    "lon": 2.3171465061408067
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.740327524859204,
+    "lon": 2.278476652355019
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73930231217975,
+    "lon": 2.2763842092214643
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76333113103066,
+    "lon": 2.3101667313545122
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74959074376707,
+    "lon": 2.3006115294177603
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758995482066055,
+    "lon": 2.279947409698187
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75891909496271,
+    "lon": 2.2804501213570822
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76507994232535,
+    "lon": 2.315175302852952
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75006554150285,
+    "lon": 2.3050529112614457
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74960059669596,
+    "lon": 2.305013009855491
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75919353797884,
+    "lon": 2.28563791334931
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75941386257549,
+    "lon": 2.2819631170848433
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770009919885574,
+    "lon": 2.317736179768664
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76878134697115,
+    "lon": 2.3161835501994323
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74419909459033,
+    "lon": 2.3026462716096887
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753688384130555,
+    "lon": 2.295115999371902
+  },
+  {
+    "name": "Espace Vasarely",
+    "type": NaN,
+    "lat": 48.7499375963606,
+    "lon": 2.3002775109030336
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.740890084839464,
+    "lon": 2.3142561632114993
+  },
+  {
+    "name": "École Élémentaire Velpeau",
+    "type": NaN,
+    "lat": 48.758254697397064,
+    "lon": 2.3046193081914277
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75406016982903,
+    "lon": 2.2945203599237445
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75007925,
+    "lon": 2.30107365
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7394146194482,
+    "lon": 2.3069257490917865
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73658299655065,
+    "lon": 2.2890984830436327
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74858936422326,
+    "lon": 2.318711923554283
+  },
+  {
+    "name": "Groupe Scolaire Adolphe Pajeaud",
+    "type": NaN,
+    "lat": 48.741197246823795,
+    "lon": 2.2854521917650112
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73540754590721,
+    "lon": 2.2789087945881237
+  },
+  {
+    "name": "École primaire publique Noyer Doré",
+    "type": NaN,
+    "lat": 48.73537263688704,
+    "lon": 2.2803359547774713
+  },
+  {
+    "name": "École maternelle André Chénier",
+    "type": NaN,
+    "lat": 48.75457750031765,
+    "lon": 2.2796655338202854
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76545831380771,
+    "lon": 2.314068174796426
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7546307969275,
+    "lon": 2.2984895781066608
+  },
+  {
+    "name": "Cascade",
+    "type": NaN,
+    "lat": 48.75468945,
+    "lon": 2.3002433000000018
+  },
+  {
+    "name": NaN,
+    "type": "newsagent",
+    "lat": 48.75440819330063,
+    "lon": 2.3007501932188372
+  },
+  {
+    "name": "Saint Saturnin",
+    "type": NaN,
+    "lat": 48.753442717987554,
+    "lon": 2.2975566433314603
+  },
+  {
+    "name": "Cascade",
+    "type": NaN,
+    "lat": 48.75462376895853,
+    "lon": 2.300213423285321
+  },
+  {
+    "name": "Théâtre de Guignol",
+    "type": NaN,
+    "lat": 48.764500720304206,
+    "lon": 2.2987254513590485
+  },
+  {
+    "name": "Abri",
+    "type": NaN,
+    "lat": 48.76694007872744,
+    "lon": 2.3012278718573476
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74809466777368,
+    "lon": 2.313267790916731
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74754585703774,
+    "lon": 2.3118548726607853
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74836646834296,
+    "lon": 2.3121981541892302
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75135785110131,
+    "lon": 2.285892242034711
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75899355,
+    "lon": 2.306959
+  },
+  {
+    "name": "Square des Corbières",
+    "type": NaN,
+    "lat": 48.73651687338753,
+    "lon": 2.2858588584882185
+  },
+  {
+    "name": "Chapelle Sainte-Marie",
+    "type": NaN,
+    "lat": 48.754074454474264,
+    "lon": 2.299447404888282
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75016655600931,
+    "lon": 2.2962989453511993
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.749371933171545,
+    "lon": 2.297287771568681
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.749211639399974,
+    "lon": 2.2966645980407723
+  },
+  {
+    "name": "Retif Antony",
+    "type": "yes",
+    "lat": 48.72965614999999,
+    "lon": 2.3046842500000033
+  },
+  {
+    "name": "Centre de secours d'Antony",
+    "type": NaN,
+    "lat": 48.74913740964668,
+    "lon": 2.30476982816373
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758778822316344,
+    "lon": 2.2913560771792594
+  },
+  {
+    "name": "École élémentaire Blanguernon",
+    "type": NaN,
+    "lat": 48.75605614165473,
+    "lon": 2.286233134342913
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74093175137275,
+    "lon": 2.2846943230635652
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.739413958475055,
+    "lon": 2.3049337242808563
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.749846594487515,
+    "lon": 2.2852182630193782
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7441207567332,
+    "lon": 2.290118995037465
+  },
+  {
+    "name": "Hôpital privé d'Antony",
+    "type": NaN,
+    "lat": 48.756472085857055,
+    "lon": 2.302442154369956
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758552791953996,
+    "lon": 2.27807747019833
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75865326093255,
+    "lon": 2.2786098271174335
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758008178458496,
+    "lon": 2.2782548212222045
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75803360080717,
+    "lon": 2.27853863171376
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75811368806239,
+    "lon": 2.2783103067531445
+  },
+  {
+    "name": "Antony RER",
+    "type": NaN,
+    "lat": 48.7554197819434,
+    "lon": 2.301437405885568
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7352402297993,
+    "lon": 2.286037638374419
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.735270231283806,
+    "lon": 2.2858598542828954
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.735442089880806,
+    "lon": 2.2865325242169723
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73487335435255,
+    "lon": 2.284671845514204
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73498061854082,
+    "lon": 2.284697352545906
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74692993732517,
+    "lon": 2.3135085921672167
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74643316692014,
+    "lon": 2.3139133886286283
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74955075542372,
+    "lon": 2.295672028146287
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7488504756653,
+    "lon": 2.2967811360498884
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74794495188007,
+    "lon": 2.2974216907805034
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.746600383737615,
+    "lon": 2.295502383284608
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74811809016754,
+    "lon": 2.2951390185645644
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.747338652539156,
+    "lon": 2.2964092039554966
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.746634280999814,
+    "lon": 2.2963917372579683
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.747243283120376,
+    "lon": 2.2973242079720086
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74652616052866,
+    "lon": 2.284889772306643
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73253167434394,
+    "lon": 2.31225070021507
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.732117668403106,
+    "lon": 2.3114697188635995
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7300778375752,
+    "lon": 2.3110245895940524
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73013607205632,
+    "lon": 2.3086715897799093
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73313431017546,
+    "lon": 2.314983321303437
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73303644863874,
+    "lon": 2.3133889997627404
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73275687829922,
+    "lon": 2.312860143673578
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.733635851207815,
+    "lon": 2.31414806412363
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73115787762486,
+    "lon": 2.3137678638673447
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73073025000001,
+    "lon": 2.3127379
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73032068903398,
+    "lon": 2.3120469639818273
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74349619030489,
+    "lon": 2.288460093759111
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73734718410935,
+    "lon": 2.288125724155346
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73715035000001,
+    "lon": 2.2870465500000003
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73728499999999,
+    "lon": 2.2870076499999996
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73711256733165,
+    "lon": 2.286295405549301
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.737074400000004,
+    "lon": 2.2860883000000007
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.737016350000005,
+    "lon": 2.2867598999999976
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7369104128968,
+    "lon": 2.2867450857355567
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7369479,
+    "lon": 2.2864216000000006
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73708784679621,
+    "lon": 2.286517987941819
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.737390118864965,
+    "lon": 2.287365395707377
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73734110000001,
+    "lon": 2.2871637000000002
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.737310133220696,
+    "lon": 2.2876149551525318
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7362767,
+    "lon": 2.288197400000004
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73622129509722,
+    "lon": 2.288376403256861
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.735143099999995,
+    "lon": 2.287296650000003
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73524105,
+    "lon": 2.2872310999999996
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.736379402829996,
+    "lon": 2.291082914094301
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.752388121318305,
+    "lon": 2.310136155796882
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7520338869717,
+    "lon": 2.3095563574074602
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.752967477384104,
+    "lon": 2.3099106766419975
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74932920365922,
+    "lon": 2.3187293684788015
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.748011993260576,
+    "lon": 2.3198472942786452
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74873855100415,
+    "lon": 2.3204820609344554
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75006291793116,
+    "lon": 2.312564581918078
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.77010682441254,
+    "lon": 2.3177760358847297
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.748067750708096,
+    "lon": 2.3112992098528435
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74889468728519,
+    "lon": 2.3105028485276207
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7484246554411,
+    "lon": 2.3104222555301406
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74827014221125,
+    "lon": 2.3098738624698747
+  },
+  {
+    "name": "Thêatre Firmin Gémier - Patrick Devedjian",
+    "type": NaN,
+    "lat": 48.75481960441234,
+    "lon": 2.296541526022692
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763985807826046,
+    "lon": 2.314359001314793
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.763894014485714,
+    "lon": 2.314969749674455
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74124290000001,
+    "lon": 2.305424399999998
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7412224,
+    "lon": 2.3054147500000015
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7412019,
+    "lon": 2.3054050999999998
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.741181399999995,
+    "lon": 2.3053954999999986
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74110050598898,
+    "lon": 2.304291096007812
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74129889866007,
+    "lon": 2.3053103188237327
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74127810133994,
+    "lon": 2.305300281176268
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74125734999999,
+    "lon": 2.30529025
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74123659999999,
+    "lon": 2.3052802500000014
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.741215800000006,
+    "lon": 2.3052701999999985
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74501801028738,
+    "lon": 2.3161834769673293
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74484752174372,
+    "lon": 2.3163222135163504
+  },
+  {
+    "name": "Hôtel Montbriand Antony",
+    "type": NaN,
+    "lat": 48.755915766706174,
+    "lon": 2.305418798261145
+  },
+  {
+    "name": "Olympe Santé",
+    "type": NaN,
+    "lat": 48.755929093239246,
+    "lon": 2.3024190472776365
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75318804670014,
+    "lon": 2.287677131455818
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75910115,
+    "lon": 2.2798875500000166
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.759081800000004,
+    "lon": 2.2806275
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75912559674124,
+    "lon": 2.2803156922493457
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.759186294384776,
+    "lon": 2.2798743071568435
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75925343849471,
+    "lon": 2.27917013644972
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7593648,
+    "lon": 2.2786106499999996
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74418965285562,
+    "lon": 2.29076362473685
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76204173391488,
+    "lon": 2.3052047760048215
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76189954719725,
+    "lon": 2.3017302574259983
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76175853808697,
+    "lon": 2.301867371070994
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.761635354072084,
+    "lon": 2.3024231170436753
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76116544052169,
+    "lon": 2.3019924192678802
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.732107976813076,
+    "lon": 2.312902150660623
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76640544050287,
+    "lon": 2.3114796980117127
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73926227812028,
+    "lon": 2.2996404769920717
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.740164184759266,
+    "lon": 2.301322549479222
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73999055,
+    "lon": 2.30104635
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.739694456150325,
+    "lon": 2.3004761693431326
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73722551295718,
+    "lon": 2.291336508033882
+  },
+  {
+    "name": "École élémentaire publique Ferdinand Buisson",
+    "type": NaN,
+    "lat": 48.75547379053244,
+    "lon": 2.30007295893635
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.77149025,
+    "lon": 2.31435745
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.77118085000001,
+    "lon": 2.3147045
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73531167824877,
+    "lon": 2.3128435303584447
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75545645,
+    "lon": 2.28000025
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7554765,
+    "lon": 2.2797939
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75433705922276,
+    "lon": 2.3036111443258456
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73973570569077,
+    "lon": 2.2998453596324238
+  },
+  {
+    "name": "École maternelle publique Jules Ferry",
+    "type": NaN,
+    "lat": 48.74851496771044,
+    "lon": 2.308537211791058
+  },
+  {
+    "name": "Groupe Scolaire Jules Ferry",
+    "type": NaN,
+    "lat": 48.74871735472886,
+    "lon": 2.3082549842659765
+  },
+  {
+    "name": "Latitude 96",
+    "type": "motorcycle",
+    "lat": 48.757985474263954,
+    "lon": 2.306378744621663
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74111140334092,
+    "lon": 2.2824499503896782
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74102887424058,
+    "lon": 2.2821552517885473
+  },
+  {
+    "name": "Parking Vélos Velpeau",
+    "type": NaN,
+    "lat": 48.75550338067305,
+    "lon": 2.3018707372007428
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.762542800000006,
+    "lon": 2.305058800000001
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7632145218423,
+    "lon": 2.307204864992268
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74270278266788,
+    "lon": 2.3022865385757876
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.746789123758084,
+    "lon": 2.316073643744287
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75087615710638,
+    "lon": 2.28260178985828
+  },
+  {
+    "name": "École Maternelle La Fontaine",
+    "type": NaN,
+    "lat": 48.76852443351658,
+    "lon": 2.3173269704117407
+  },
+  {
+    "name": "École Élémentaire La Fontaine",
+    "type": NaN,
+    "lat": 48.76901911525622,
+    "lon": 2.317786257820409
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76231226826079,
+    "lon": 2.3019099588067227
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7544848,
+    "lon": 2.29716595
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75474935,
+    "lon": 2.296936
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75505813151697,
+    "lon": 2.29615696809783
+  },
+  {
+    "name": "Circuit de Prévention Routière",
+    "type": NaN,
+    "lat": 48.74223902350068,
+    "lon": 2.2850932005367564
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.762823152229615,
+    "lon": 2.305162419646353
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758454429263026,
+    "lon": 2.30556519394477
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.738922841659566,
+    "lon": 2.283283825318528
+  },
+  {
+    "name": "Sécurité Sociale",
+    "type": NaN,
+    "lat": 48.75426791328931,
+    "lon": 2.294732824555487
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76658128027707,
+    "lon": 2.3103115960434866
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76366681493992,
+    "lon": 2.3128683662045773
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.762045836848635,
+    "lon": 2.301805004175298
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.761951105667414,
+    "lon": 2.3013925924044862
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.76202993036963,
+    "lon": 2.3014836556719924
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.747048222826024,
+    "lon": 2.286681375084974
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.752498254949785,
+    "lon": 2.307224618958296
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75010266262902,
+    "lon": 2.304925925712939
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75001437743,
+    "lon": 2.304482053118606
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75046548030998,
+    "lon": 2.3045571698293927
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75022518018583,
+    "lon": 2.304525862438169
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74993107367088,
+    "lon": 2.304870319825262
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7507963,
+    "lon": 2.3045865
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75066713963317,
+    "lon": 2.3045760426063095
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74996129200253,
+    "lon": 2.304729838779834
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75348747214888,
+    "lon": 2.2954024488798623
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75442074522542,
+    "lon": 2.2930640921503525
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.738363972441384,
+    "lon": 2.288453282118379
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.738783640296504,
+    "lon": 2.2881719928562894
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.758725510221076,
+    "lon": 2.3055931420889757
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75857887621015,
+    "lon": 2.3057099217610943
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770836946436155,
+    "lon": 2.31006647411736
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.770839249999995,
+    "lon": 2.3099950000000016
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75384164054805,
+    "lon": 2.2921409426032238
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75558405902394,
+    "lon": 2.3023962466117776
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75434727253595,
+    "lon": 2.303396080806985
+  },
+  {
+    "name": "Parking du Centre-Ville",
+    "type": NaN,
+    "lat": 48.752862430300866,
+    "lon": 2.3033328344008983
+  },
+  {
+    "name": "Parking Biocoop",
+    "type": NaN,
+    "lat": 48.75100115709466,
+    "lon": 2.3041681915574292
+  },
+  {
+    "name": "Multi-Accueil La Source",
+    "type": NaN,
+    "lat": 48.75488918322562,
+    "lon": 2.298590034167821
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73234500065626,
+    "lon": 2.314450608409431
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7324888777551,
+    "lon": 2.3144480945195336
+  },
+  {
+    "name": "ESAT Jacques Monod",
+    "type": NaN,
+    "lat": 48.74208171699993,
+    "lon": 2.314286016199003
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74859187900138,
+    "lon": 2.316660307987166
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74921218379221,
+    "lon": 2.317298827314804
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.74099016958826,
+    "lon": 2.3067291716664675
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75791373148482,
+    "lon": 2.2984486359006446
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75292315942718,
+    "lon": 2.2967134231850204
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753162000410065,
+    "lon": 2.296789573459849
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.753504344533184,
+    "lon": 2.2969516085743136
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73045234197048,
+    "lon": 2.3132506078305797
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73074685518718,
+    "lon": 2.313431772064501
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.730904970962435,
+    "lon": 2.314252257938563
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7305531,
+    "lon": 2.313377399999998
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75430949357069,
+    "lon": 2.297164015185157
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75285150393217,
+    "lon": 2.296036188260949
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75264761967749,
+    "lon": 2.296290421975806
+  },
+  {
+    "name": "Ibis Styles",
+    "type": NaN,
+    "lat": 48.733171502271325,
+    "lon": 2.3137337481388767
+  },
+  {
+    "name": "Le Verytable",
+    "type": NaN,
+    "lat": 48.733453216679,
+    "lon": 2.313985471399467
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75043554576122,
+    "lon": 2.2965150598074136
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73147305,
+    "lon": 2.313296450000001
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73104654490862,
+    "lon": 2.3098465309978193
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.730081564329836,
+    "lon": 2.310250775315879
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73064268018732,
+    "lon": 2.3090875307839793
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73154203605273,
+    "lon": 2.3105499405145764
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.73021515,
+    "lon": 2.3121308999999997
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.7595614,
+    "lon": 2.2956948500000003
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.751310504482326,
+    "lon": 2.284919775882179
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75782671174881,
+    "lon": 2.2979006081121214
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75801490707005,
+    "lon": 2.2975519087512204
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75863446006897,
+    "lon": 2.2969898180344557
+  },
+  {
+    "name": NaN,
+    "type": NaN,
+    "lat": 48.75360988782577,
+    "lon": 2.2954227703520416
+  }
+]
