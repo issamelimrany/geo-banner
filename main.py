@@ -9,7 +9,7 @@ from io import BytesIO
 # CONFIG
 # ----------------------------
 COMMUNE_NAME = "Antony, France"  
-API_KEY = "AIzaSyD_k5jmMeUxAywvBU0E6GZ1Xo0-aqN507A"      
+API_KEY = "your api key"      
 OUT_DIR = "streetview_business_poc"
 os.makedirs(OUT_DIR, exist_ok=True)
 
